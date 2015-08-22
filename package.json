@@ -1,0 +1,21 @@
+{
+  "name": "mock",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --harmony app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mock",
+    "jsonstub"
+  ],
+  "author": "Pawan Kumar",
+  "license": "public",
+  "dependencies": {
+    "koa": "^0.21.0",
+    "koa-router": "^4.3.2",
+    "nodemon": "^1.3.7"
+  }
+}
