@@ -1,5 +1,5 @@
 module.exports = {
     koa: {
-        port: 3000
+        port: 5000
     }
 }
