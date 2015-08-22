@@ -2,7 +2,7 @@
   "count": 1,
   "cards": [
     {
-      "type": "COMPONENT",
+      "type": "COMPONENT_CARD",
       "props": {
         "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685da",
         "meta": {
