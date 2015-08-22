@@ -6,7 +6,7 @@ var app = require('koa')(),
 
 var config = require(__dirname + '/config.js');
 var feed = require('./feed.json');
-var port = config.koa.port || 3000;
+var port = process.env.PORT || config.koa.port || 3000;
 
 app.use(router(app));
 
