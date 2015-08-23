@@ -233,11 +233,11 @@
           "props": {
             "title": [
               {
-                "text": "New in"
+                "text": "Featured in "
               },
               {
-                "text": "Style Guru, ",
-                "link": "/tags/styleguru"
+                "text": "Trivia, ",
+                "link": "/tags/trivia"
               },
               {
                 "text": "Men",
@@ -250,26 +250,26 @@
           "type": "IMAGE_SINGLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323981735-file",
-              "width": 800,
-              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324036792-file",
+              "width": 1140,
+              "height": 750,
               "provider": "MYNT_ASSETS"
             },
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562\""
           }
         },
         {
           "type": "TITLE_TEXT",
           "props": {
-            "text": "7 simple rules",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "The science behind good looks",
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562\""
           }
         },
         {
           "type": "DESCRIPTION_TEXT",
           "props": {
-            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "While making an effort to look stunning can make a difference in how people perceive you, here are some scientific reasons why some appear more attractive than others",
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562\""
           }
         },
         {
