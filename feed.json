@@ -1,5 +1,5 @@
 {
-  "count": 15,
+  "count": 5,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -323,7 +323,7 @@
           "props": {
             "title": [
               {
-                "text": "New in"
+                "text": "New in "
               },
               {
                 "text": "Style Guru, ",
@@ -340,7 +340,7 @@
           "type": "IMAGE_SINGLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323951362-file",
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
               "width": 800,
               "height": 430,
               "provider": "MYNT_ASSETS"
@@ -413,14 +413,14 @@
           "props": {
             "title": [
               {
-                "text": "New in"
+                "text": "Featured in "
               },
               {
-                "text": "Style Guru, ",
+                "text": "#Style-Guru, ",
                 "link": "/tags/styleguru"
               },
               {
-                "text": "Men",
+                "text": "#Style",
                 "link": "/tags/men"
               }
             ]
@@ -430,26 +430,26 @@
           "type": "IMAGE_SINGLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/8/10/11439198721408-story6.jpeg",
-              "width": 275,
-              "height": 183,
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
               "provider": "MYNT_ASSETS"
             },
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
           }
         },
         {
           "type": "TITLE_TEXT",
           "props": {
-            "text": "7 simple rules",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "Here's how to fake it",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
           }
         },
         {
           "type": "DESCRIPTION_TEXT",
           "props": {
-            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "Fake it till you make it: get the perfect body minus the gym and the diet",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
           }
         },
         {
