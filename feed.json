@@ -1,5 +1,5 @@
 {
-  "count": 1,
+  "count": 15,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -49,12 +49,12 @@
                 "text": "New in"
               },
               {
-                "text": "Style Guru, ",
-                "link": "/tags/styleguru"
+                "text": "Grooming, ",
+                "link": "/tags/grooming"
               },
               {
-                "text": "Men",
-                "link": "/tags/men"
+                "text": "Shaving",
+                "link": "/tags/shaving"
               }
             ]
           }
@@ -63,26 +63,26 @@
           "type": "IMAGE_SINGLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
               "width": 800,
               "height": 430,
               "provider": "MYNT_ASSETS"
             },
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
           }
         },
         {
           "type": "TITLE_TEXT",
           "props": {
-            "text": "7 simple rules",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
           }
         },
         {
           "type": "DESCRIPTION_TEXT",
           "props": {
-            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
-            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+            "text": "Every face needs different types of sideburns",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
           }
         },
         {
