@@ -90,6 +90,366 @@
           "props": {}
         }
       ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685da",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in"
+              },
+              {
+                "text": "Style Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "7 simple rules",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685da",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in"
+              },
+              {
+                "text": "Style Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "7 simple rules",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685da",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in"
+              },
+              {
+                "text": "Style Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "7 simple rules",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685da",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in"
+              },
+              {
+                "text": "Style Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324021609-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "7 simple rules",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "props": {}
+        }
+      ]
     }
   ],
   "page": {
