@@ -86,7 +86,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
@@ -176,7 +176,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
@@ -266,7 +266,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
@@ -356,7 +356,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
@@ -446,7 +446,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_SHARE_COMMENT",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
