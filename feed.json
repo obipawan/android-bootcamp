@@ -42,7 +42,7 @@
       },
       "children": [
         {
-          "type": "HEADER_TOPIC",
+          "type": "HEADER_CONTEXT",
           "props": {
             "title": [
               {
