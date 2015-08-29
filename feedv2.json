@@ -88,7 +88,7 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
+          "type":"FEEDBACK_VIEW_LIKE",
           "props":{}
         },
         {
