@@ -133,7 +133,7 @@
             "liked": true
           },
           "comments": {
-            "count": 0
+            "count": 4
           },
           "shares": {
             "count": 0,
@@ -185,6 +185,10 @@
             "text": "Here is how you stay on trend boys!",
             "link": "http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
           }
+        },
+        {
+          "type":"FEEDBACK_VIEW_LIKE",
+          "props":{}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
