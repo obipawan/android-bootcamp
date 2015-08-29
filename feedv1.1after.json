@@ -1,0 +1,50 @@
+{
+  "count": 1,
+  "data": [
+    {
+      "sequence": 22,
+      "title": " What women want to do with cricketers? Find out",
+      "object": {
+        "id": "2:01926408-44f6-4112-bace-3a8be290bd30",
+        "type": "article",
+        "title": "What women want to do with cricketers? Find out",
+        "description": "Date vs marry, we asked women to vote, and guess who they want?",
+        "image": {
+          "url": "http://assets.myntassets.com/assets/images/2015/6/16/11434450792495-1434450792494ViratYuvraj_FEATURED.jpg"
+        },
+        "url": "http://www.myntra.com/lookgood/2015/01/what-women-want-to-do-with-cricketers-find-out/",
+        "extras": {
+          "aspectRatio": "38:25"
+        },
+        "likeEnabled": true,
+        "commentEnabled": true,
+        "shareEnabled": true,
+        "isLiked": false,
+        "activities": {
+          "click": {
+            "count": "9"
+          },
+          "like": {
+            "count": "19"
+          }
+        },
+        "app": {
+          "id": 2,
+          "name": "CoMS"
+        },
+        "topics": [
+          "ICC World Cup",
+          "men",
+          "pehenkeniklo",
+          "Virat Kohli",
+          "women",
+          "World cup 2015"
+        ]
+      }
+    }
+  ],
+  "page": {
+    "next": "/v1/feed?limit=20&after=22",
+    "previous": "/v1/feed?limit=20&before=1"
+  }
+}

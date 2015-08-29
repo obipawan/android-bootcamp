@@ -88,6 +88,10 @@
           }
         },
         {
+          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
+          "props":{}
+        },
+        {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
