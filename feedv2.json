@@ -187,7 +187,7 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE",
+          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
           "props":{}
         },
         {
