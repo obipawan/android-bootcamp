@@ -34,7 +34,7 @@
             "liked": true
           },
           "comments": {
-            "count": 0
+            "count": 4
           },
           "shares": {
             "count": 0,
@@ -88,7 +88,7 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE",
+          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
           "props":{}
         },
         {
