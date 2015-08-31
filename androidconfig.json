@@ -319,6 +319,7 @@
   "showRateOptionOnOrderCompletion": true,
   "showShareOptionOnMenu": true,
   "showWishListButtonOnCardView": true,
+  "lgpLocalCacheDuration":60000,
   "trackOrderMenuTitle": "Manage Orders",
   "urlByPasses": [
     "my",
