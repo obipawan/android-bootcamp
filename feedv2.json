@@ -566,6 +566,103 @@
           "props": {}
         }
       ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dah",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#Style-Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "CAPTIONED_IMAGE_CENTER",
+          "props": {
+            "image": {
+              "src": "http://www.dazafashion.com/wp-content/uploads/2015/08/easy-party-hairstyles-for-long-hair-55.jpg",
+              "width": 600,
+              "height": 400,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
+            "baseColor":"#e74c3c",
+            "title":"Party Hair",
+            "description":"Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured."
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Party Hair",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured.",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
+          "props":{}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
     }
   ],
   "page": {
