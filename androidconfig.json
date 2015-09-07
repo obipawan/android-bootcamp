@@ -317,7 +317,7 @@
     "enableSecureCartOnBlockRedirect": true,
     "enableTapForOffer": true,
     "enableTokenSystem": true,
-    "lgpLocalCacheDuration": 60000,
+    "lgpLocalCacheDuration": 0,
     "homePageUrl": "/shop/home?cortex=true",
     "jsBridgeNameSpace": "MyntApp",
     "lgpEndpoint": "http://developer.myntra.com/lgp",
