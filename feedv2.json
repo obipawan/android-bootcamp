@@ -88,8 +88,8 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-          "props":{}
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
@@ -187,8 +187,8 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-          "props":{}
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
@@ -461,8 +461,8 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-          "props":{}
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
@@ -538,9 +538,9 @@
               "provider": "MYNT_ASSETS"
             },
             "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
-            "baseColor":"#2c3e50",
-            "title":"Fitness",
-            "description":"Quirky & effortless style, for the active girl"
+            "baseColor": "#2c3e50",
+            "title": "Fitness",
+            "description": "Quirky & effortless style, for the active girl"
           }
         },
         {
@@ -558,8 +558,8 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-          "props":{}
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
@@ -635,9 +635,9 @@
               "provider": "MYNT_ASSETS"
             },
             "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
-            "baseColor":"#88e74c3c",
-            "title":"Party Hair",
-            "description":"Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured."
+            "baseColor": "#88e74c3c",
+            "title": "Party Hair",
+            "description": "Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured."
           }
         },
         {
@@ -655,8 +655,103 @@
           }
         },
         {
-          "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-          "props":{}
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "https://www.youtube.com/watch?v=mBMiWAQQ1FI",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
+              "width": 1280,
+              "height": 720,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 2:23"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "HOW TO GET A KNOTTED HAIR-DO FOR MEDIUM-LENGTH HAIR"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
