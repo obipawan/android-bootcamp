@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 11,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -747,6 +747,291 @@
           "type": "TITLE_TEXT",
           "props": {
             "text": "HOW TO GET A KNOTTED HAIR-DO FOR MEDIUM-LENGTH HAIR"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-4545-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "https://www.youtube.com/watch?v=gEVVYaoBOIY",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
+              "width": 1280,
+              "height": 720,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 0:33"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Get the Perfect Make-Up Base"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-2323-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "https://www.youtube.com/watch?v=LHol9scORho",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450780818-1434450780761how-to-store-your-bobby-pins.jpg",
+              "width": 1920,
+              "height": 1080,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 0:16"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "HOW TO STORE YOUR BOBBY PINS"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "https://www.youtube.com/watch?v=icwQKsgJHKc",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789606-14344507895475-uses-of-vaseline-you-couldnt-h.jpg",
+              "width": 1920,
+              "height": 1080,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
           }
         },
         {
