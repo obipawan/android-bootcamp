@@ -259,8 +259,8 @@
           "props": {
             "image": {
               "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
-              "width": 1140,
-              "height": 750,
+              "width": 800,
+              "height": 430,
               "provider": "MYNT_ASSETS"
             },
             "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562\""
@@ -349,8 +349,8 @@
           "props": {
             "image": {
               "src": "http://myntra.myntassets.com/image/style/properties/958098/Eavan-Navy-High-Low-Kurta_1_ade64b462f7398943ead72671e4cec65.jpg",
-              "width": 800,
-              "height": 430,
+              "width": 1080,
+              "height": 1440,
               "provider": "MYNT_ASSETS"
             },
             "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
