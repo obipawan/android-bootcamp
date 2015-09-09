@@ -726,7 +726,7 @@
           "type": "VIDEO",
           "props": {
             "video": {
-              "src": "https://www.youtube.com/watch?v=mBMiWAQQ1FI",
+              "src": "mBMiWAQQ1FI",
               "provider": "YOUTUBE"
             },
             "image": {
@@ -821,7 +821,7 @@
           "type": "VIDEO",
           "props": {
             "video": {
-              "src": "https://www.youtube.com/watch?v=gEVVYaoBOIY",
+              "src": "gEVVYaoBOIY",
               "provider": "YOUTUBE"
             },
             "image": {
@@ -916,7 +916,7 @@
           "type": "VIDEO",
           "props": {
             "video": {
-              "src": "https://www.youtube.com/watch?v=LHol9scORho",
+              "src": "LHol9scORho",
               "provider": "YOUTUBE"
             },
             "image": {
@@ -1011,7 +1011,7 @@
           "type": "VIDEO",
           "props": {
             "video": {
-              "src": "https://www.youtube.com/watch?v=icwQKsgJHKc",
+              "src": "icwQKsgJHKc",
               "provider": "YOUTUBE"
             },
             "image": {
