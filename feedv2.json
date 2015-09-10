@@ -173,8 +173,12 @@
             "categoryPrefix": "in",
             "categories": [
               {
-                "name": "Collections",
-                "link": ""
+                "name": "Looks",
+                "link": "/looks"
+              },
+              {
+                "name":"Casuals",
+                "link":"/casuals"
               }
             ],
             "timestampInMillis": "1441883006000"
