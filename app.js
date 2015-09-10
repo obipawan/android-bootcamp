@@ -6,6 +6,7 @@ var app = require('koa')(),
 
 var config = require(__dirname + '/config.js');
 var feedv2 = require('./feedv2.json');
+var hotlistv2 = require('./hotlistv2.json');
 var feed = require('./feedv1.1.json');
 var feedbefore = require('./feedv1.1before.json');
 var feedafter = require('./feedv1.1after.json');
@@ -17,6 +18,11 @@ app.use(router(app));
 
 app.get('/lgp/v2/feed', function*(next){
 	this.body = JSON.stringify(feedv2);
+	yield next;
+});
+
+app.get('/lgp/v2/feed/hotlist/android', function*(next){
+	this.body = JSON.stringify(hotlistv2);
 	yield next;
 });
 

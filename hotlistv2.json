@@ -1,0 +1,138 @@
+{
+  "count": 4,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "hpb_1a_promotion-",
+        "meta": {
+          "name": "BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 0
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
+              "width": 980,
+              "height": 980,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "SPLIT-BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 1
+      },
+      "children": [
+        {
+          "type": "SPLIT-BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-women.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "SPLIT-BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 1
+      },
+      "children": [
+        {
+          "type": "SPLIT-BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "SPLIT-BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 1
+      },
+      "children": [
+        {
+          "type": "SPLIT-BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
