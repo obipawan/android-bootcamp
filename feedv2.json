@@ -1,5 +1,5 @@
 {
-  "count": 11,
+  "count": 15,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -1493,6 +1493,73 @@
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "PRODUCT",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Whitelisted item running out of stock "
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_BUY_NOW",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+              "width": 1080,
+              "height": 1440,
+              "provider": "MYNT_ASSETS"
+            },
+            "productName": "American Swan Beige Trousers",
+            "productPrice": "1599",
+            "discountedPrice": "499",
+            "productDiscount": "40% OFF"
+          }
         }
       ]
     }
