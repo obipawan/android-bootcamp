@@ -51,19 +51,22 @@
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
               },
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-women.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/women"
               },
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
               }
             ]
           }
@@ -92,13 +95,15 @@
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
               },
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
               }
             ]
           }
@@ -127,7 +132,8 @@
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                 "width": 327,
                 "height": 327,
-                "provider": "MYNT_ASSETS"
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
               }
             ]
           }
