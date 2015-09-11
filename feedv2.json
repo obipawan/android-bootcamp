@@ -251,22 +251,25 @@
           "type": "CREATOR_TITLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
               "width": 800,
               "height": 430,
               "provider": "MYNT_ASSETS"
             },
-            "action": "Poll Posted",
+            "action": "Created",
             "actionSuffix": "by",
             "creator": {
-              "name": "Pranshu",
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
               "link": ""
             },
             "categoryPrefix": "in",
             "categories": [
               {
-                "name": "Threads",
-                "link": "/threads"
+                "name": "Collections",
+                "link": ""
               }
             ],
             "timestampInMillis": "1441883006000"
@@ -336,7 +339,7 @@
           "type": "CREATOR_TITLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
               "width": 800,
               "height": 430,
               "provider": "MYNT_ASSETS"
@@ -344,18 +347,17 @@
             "action": "Created",
             "actionSuffix": "by",
             "creator": {
-              "name": "Gaurav Kaushik",
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
               "link": ""
             },
             "categoryPrefix": "in",
             "categories": [
               {
-                "name": "Looks",
-                "link": "/looks"
-              },
-              {
-                "name": "Casuals",
-                "link": "/casuals"
+                "name": "Collections",
+                "link": ""
               }
             ],
             "timestampInMillis": "1441883006000"
@@ -646,7 +648,7 @@
           "type": "CREATOR_TITLE",
           "props": {
             "image": {
-              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
               "width": 800,
               "height": 430,
               "provider": "MYNT_ASSETS"
@@ -654,7 +656,10 @@
             "action": "Created",
             "actionSuffix": "by",
             "creator": {
-              "name": "Gaurav Kaushik",
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
               "link": ""
             },
             "categoryPrefix": "in",
