@@ -23,7 +23,7 @@ app.get('/lgp/v2/feed', function*(next){
 
 app.get('/lgp/v2/feed/hotlist/android', function*(next){
 	this.body = JSON.stringify(hotlistv2);
-	this.set('Cache-Control', 'max-age=900');
+	this.set('Cache-Control', 'max-age=900,only-if-cached,max-stale=0');
 	yield next;
 });
 
