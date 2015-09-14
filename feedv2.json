@@ -448,8 +448,8 @@
                 {
                     "type":"HEADER_POLL",
                     "props":{
-                        "timeLeft":85365400,
-                        "duration":988286000
+                        "timeLeft":10365400,
+                        "duration":188286000
                     }
                 },
                 {
