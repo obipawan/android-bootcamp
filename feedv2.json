@@ -446,21 +446,10 @@
             },
             "children":[
                 {
-                    "type":"HEADER_CONTEXT",
+                    "type":"HEADER_POLL",
                     "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
+                        "timeLeft":85365400,
+                        "duration":988286000
                     }
                 },
                 {
