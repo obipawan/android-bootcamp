@@ -1695,6 +1695,185 @@
       "props": {
         "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
         "meta": {
+          "name": "COLLECTION",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "url": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "MOSAIC",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "baseColor": "Black",
+            "previewColors": [
+              "Black",
+              "Red",
+              "Green",
+              "Blue",
+              "Brown"
+            ],
+            "totalStyles": 23,
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
           "name": "PRODUCT",
           "app": {
             "id": 2,
