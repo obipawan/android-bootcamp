@@ -40,7 +40,7 @@
             "name": "CoMS"
           }
         },
-        "sequence": 1
+        "sequence": 4
       },
       "children": [
         {
@@ -84,7 +84,7 @@
             "name": "CoMS"
           }
         },
-        "sequence": 1
+        "sequence": 2
       },
       "children": [
         {
@@ -121,7 +121,7 @@
             "name": "CoMS"
           }
         },
-        "sequence": 1
+        "sequence": 5
       },
       "children": [
         {
