@@ -1,2344 +1,2386 @@
 {
-    "count":17,
-    "cards":[
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685daa",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "grooming",
-                        "shave",
-                        "style",
-                        "haircut",
-                        "Sideburns",
-                        "Elvis",
-                        "men",
-                        "Beauty & Grooming",
-                        "featured",
-                        "Elvis Presley"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":6974
-                    },
-                    "likes":{
-                        "count":164,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":4
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":false
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"New in "
-                            },
-                            {
-                                "text":"Grooming, ",
-                                "link":"/tags/grooming"
-                            },
-                            {
-                                "text":"Shaving",
-                                "link":"/tags/shaving"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Pick the right sideburns according to your face type",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Every face needs different types of sideburns",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
+  "count": 19,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
         },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:55ihsdfb-830c-4a4f-a11b-46688d1685daa",
-                "meta":{
-                    "name":"POLL",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "grooming",
-                        "shave",
-                        "style",
-                        "haircut",
-                        "Sideburns",
-                        "Elvis",
-                        "men",
-                        "Beauty & Grooming",
-                        "featured",
-                        "Elvis Presley"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":6974
-                    },
-                    "likes":{
-                        "count":164,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":4
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":false
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_POLL",
-                    "props":{
-                        "timeLeft":85365453,
-                        "duration":998287000
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Pick the right sideburns according to your face type",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"PRODUCT_SINGLE",
-                    "props":{
-                        "product":{
-                            "stylename":"American Swan Men Brown Suede Casual Shoes",
-                            "brands_facet":"American Swan1",
-                            "price":"3999",
-                            "discount":"1600",
-                            "discounted_price":"2399",
-                            "discount_label":"40% OFF",
-                            "link":"/797080",
-                            "image":{
-                                "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                "width":1080,
-                                "height":1440,
-                                "provider":"MYNT_ASSETS"
-                            }
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_POLL",
-                    "props":{
-                        "options":[
-                            {
-                                "id":666,
-                                "product":{
-                                    "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                    "brands_facet":"American Swan1",
-                                    "price":"3999",
-                                    "discount":"1600",
-                                    "discounted_price":"2399",
-                                    "discount_label":"40% OFF",
-                                    "link":"/797080",
-                                    "image":{
-                                        "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                        "width":1080,
-                                        "height":1440,
-                                        "provider":"MYNT_ASSETS"
-                                    }
-                                }
-                            },
-                            {
-                                "id":667,
-                                "product":{
-                                    "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                    "brands_facet":"American Swan1",
-                                    "price":"3999",
-                                    "discount":"1600",
-                                    "discounted_price":"2399",
-                                    "discount_label":"40% OFF",
-                                    "link":"/797080",
-                                    "image":{
-                                        "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                        "width":1080,
-                                        "height":1440,
-                                        "provider":"MYNT_ASSETS"
-                                    }
-                                }
-                            },
-                            {
-                                "id":668,
-                                "product":{
-                                    "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                    "brands_facet":"American Swan1",
-                                    "price":"3999",
-                                    "discount":"1600",
-                                    "discounted_price":"2399",
-                                    "discount_label":"40% OFF",
-                                    "link":"/797080",
-                                    "image":{
-                                        "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                        "width":1080,
-                                        "height":1440,
-                                        "provider":"MYNT_ASSETS"
-                                    }
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"CREATOR_TITLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "action":"Created",
-                        "actionSuffix":"by",
-                        "creator":{
-                            "firstname":"Kriti",
-                            "lastname":"Sharma",
-                            "publicProfileId":"Kriti.Sharma-tde",
-                            "uidx":"6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
-                            "link":""
-                        },
-                        "categoryPrefix":"in",
-                        "categories":[
-                            {
-                                "name":"Collections",
-                                "link":""
-                            }
-                        ],
-                        "timestampInMillis":"1441883006000"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"PRODUCT_STORY",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_POLL",
-                    "props":{
-                        "timeLeft":10365400,
-                        "duration":188286000
-                    }
-                },
-                {
-                    "type":"CREATOR_TITLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "action":"Created",
-                        "actionSuffix":"by",
-                        "creator":{
-                            "firstname":"Kriti",
-                            "lastname":"Sharma",
-                            "publicProfileId":"Kriti.Sharma-tde",
-                            "uidx":"6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
-                            "link":""
-                        },
-                        "categoryPrefix":"in",
-                        "categories":[
-                            {
-                                "name":"Collections",
-                                "link":""
-                            }
-                        ],
-                        "timestampInMillis":"1441883006000"
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858331/Nike-Women-Orange-Air-Zoom-Pegasus-32-Running-Shoes_1_c63afa531d5714f34417d472c22ab35a.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858321/Nike-Men-Sports-Shoes_1_f2bb5617ab79db05c10d22534a8f0e92.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858198/Nike-Men-Black-Zoom-Speed-TR2-Training-Shoes_1_a874b121d5f9c7d454ba1fd74e4a0b45.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "link":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858320/Nike-Men-Sports-Shoes_1_87e1caa94be94331be91d903e6d8b535.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/877240/PUMA-Unisex-Navy-Salz-III-DP-Sneakers_1_2297c77214c6af16f169ee22d3d3dbd8.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/894559/Puma-Men-Flip-Flops_1_9fe71e38448976ffbce2898179581f5f.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "url":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/868109/PUMA-Unisex-Red-Echo-Backpack_1_213f80f8f1e691a66b67650cd3326e74.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 1:17"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 uses of Vaseline you couldn’t have guessed"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"PRODUCT_STORY",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "url":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 1:17"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 uses of Vaseline you couldn’t have guessed"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dab",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Must-haves",
-                        "shop denims online",
-                        "Denims for men",
-                        "men",
-                        "slim-fit pants",
-                        "indigo denims",
-                        "featured",
-                        "Trends to Try",
-                        "jeans for men online",
-                        "Myntra",
-                        "distressed denims for men",
-                        "lookgood",
-                        "black denims"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":6052
-                    },
-                    "likes":{
-                        "count":87,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":4
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"New in "
-                            },
-                            {
-                                "text":"#Must-haves, ",
-                                "link":"/tags/styleguru"
-                            },
-                            {
-                                "text":"#shop-denims-online",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438323981735-file",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
-                    }
-                },
-                {
-                    "type":"CREATOR_TITLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "action":"Created",
-                        "actionSuffix":"by",
-                        "creator":{
-                            "firstname":"Kriti",
-                            "lastname":"Sharma",
-                            "publicProfileId":"Kriti.Sharma-tde",
-                            "uidx":"6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
-                            "link":""
-                        },
-                        "categoryPrefix":"in",
-                        "categories":[
-                            {
-                                "name":"Collections",
-                                "link":""
-                            }
-                        ],
-                        "timestampInMillis":"1441883006000"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 must-have denims that are trending right now",
-                        "link":"http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Here is how you stay on trend boys!",
-                        "link":"http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dac",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"Trivia, ",
-                                "link":"/tags/trivia"
-                            },
-                            {
-                                "text":"Men",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
-                            "width":800,
-                            "height":430,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"The science behind good looks",
-                        "link":"http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"While making an effort to look stunning can make a difference in how people perceive you, here are some scientific reasons why some appear more attractive than others",
-                        "link":"http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
-                    }
-                },
-                {
-                    "type":"QUOTE_TEXT",
-                    "props":{
-                        "text":"While making an effort to look stunning can make a difference in how people perceive you."
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dad",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"New in "
-                            },
-                            {
-                                "text":"Style Guru, ",
-                                "link":"/tags/styleguru"
-                            },
-                            {
-                                "text":"Men",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://myntra.myntassets.com/image/style/properties/958098/Eavan-Navy-High-Low-Kurta_1_ade64b462f7398943ead72671e4cec65.jpg",
-                            "width":1080,
-                            "height":1440,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"7 simple rules",
-                        "link":"http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
-                        "link":"http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dae",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#Style-Guru, ",
-                                "link":"/tags/styleguru"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"IMAGE_SINGLE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
-                            "width":1140,
-                            "height":750,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Here's how to fake it",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Fake it till you make it: get the perfect body minus the gym and the diet",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dag",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#Style-Guru, ",
-                                "link":"/tags/styleguru"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"CAPTIONED_IMAGE",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
-                            "width":1140,
-                            "height":750,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
-                        "baseColor":"#2c3e50",
-                        "title":"Fitness",
-                        "description":"Quirky & effortless style, for the active girl"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Here's how to fake it",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Fake it till you make it: get the perfect body minus the gym and the diet",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685dah",
-                "meta":{
-                    "name":"ARTICLE",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#Style-Guru, ",
-                                "link":"/tags/styleguru"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/men"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"CAPTIONED_IMAGE_CENTER",
-                    "props":{
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
-                            "width":1140,
-                            "height":750,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
-                        "baseColor":"#88e74c3c",
-                        "title":"Party Hair",
-                        "description":"Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured."
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Party Hair",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured.",
-                        "link":"http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"VIDEO",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"VIDEO",
-                    "props":{
-                        "video":{
-                            "src":"mBMiWAQQ1FI",
-                            "provider":"YOUTUBE"
-                        },
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
-                            "width":1280,
-                            "height":720,
-                            "provider":"MYNT_ASSETS"
-                        }
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 2:23"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"HOW TO GET A KNOTTED HAIR-DO FOR MEDIUM-LENGTH HAIR"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-4545-46688d168s3ah",
-                "meta":{
-                    "name":"VIDEO",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"VIDEO",
-                    "props":{
-                        "video":{
-                            "src":"gEVVYaoBOIY",
-                            "provider":"YOUTUBE"
-                        },
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
-                            "width":1280,
-                            "height":720,
-                            "provider":"MYNT_ASSETS"
-                        }
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 0:33"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Get the Perfect Make-Up Base"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-2323-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"VIDEO",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"VIDEO",
-                    "props":{
-                        "video":{
-                            "src":"LHol9scORho",
-                            "provider":"YOUTUBE"
-                        },
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/6/16/11434450780818-1434450780761how-to-store-your-bobby-pins.jpg",
-                            "width":1920,
-                            "height":1080,
-                            "provider":"MYNT_ASSETS"
-                        }
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 0:16"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"HOW TO STORE YOUR BOBBY PINS"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"VIDEO",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"VIDEO",
-                    "props":{
-                        "video":{
-                            "src":"icwQKsgJHKc",
-                            "provider":"YOUTUBE"
-                        },
-                        "image":{
-                            "src":"http://assets.myntassets.com/assets/images/2015/6/16/11434450789606-14344507895475-uses-of-vaseline-you-couldnt-h.jpg",
-                            "width":1920,
-                            "height":1080,
-                            "provider":"MYNT_ASSETS"
-                        }
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 1:17"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 uses of Vaseline you couldn’t have guessed"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"PRODUCT_STORY",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "url":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 1:17"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 uses of Vaseline you couldn’t have guessed"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"COLLECTION",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Featured in "
-                            },
-                            {
-                                "text":"#DIY, ",
-                                "link":"/tags/diy"
-                            },
-                            {
-                                "text":"#Style",
-                                "link":"/tags/style"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_RACK",
-                    "props":{
-                        "products":[
-                            {
-                                "stylename":"American Swan Men Brown Suede Casual Shoes",
-                                "brands_facet":"American Swan1",
-                                "price":"3999",
-                                "discount":"1600",
-                                "discounted_price":"2399",
-                                "discount_label":"40% OFF",
-                                "link":"/797080",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Men Grey Suede Casual Shoes",
-                                "brands_facet":"American Swan2",
-                                "price":"3699",
-                                "discount":"1480",
-                                "discounted_price":"2219",
-                                "discount_label":"40% OFF",
-                                "link":"/797083",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            },
-                            {
-                                "stylename":"American Swan Beige Trousers",
-                                "brands_facet":"American Swan3",
-                                "price":"1599",
-                                "discount":"640",
-                                "discounted_price":"959",
-                                "discount_label":"40% OFF",
-                                "url":"/858669",
-                                "image":{
-                                    "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                                    "width":1080,
-                                    "height":1440,
-                                    "provider":"MYNT_ASSETS"
-                                }
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"MOSAIC",
-                    "props":{
-                        "images":[
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            }
-                        ],
-                        "baseColor":"Black",
-                        "previewColors":[
-                            "Black",
-                            "Red",
-                            "Green",
-                            "Blue",
-                            "Brown"
-                        ],
-                        "totalStyles":23,
-                        "link":"http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"VIDEO | 1:17"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"5 uses of Vaseline you couldn’t have guessed"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
-                "meta":{
-                    "name":"PRODUCT",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Style Guru",
-                        "men",
-                        "men's fashion",
-                        "featured",
-                        "rules to wearing socks",
-                        "style rules",
-                        "sock etiquettes",
-                        "Style Help"
-                    ]
-                },
-                "sequence":1439161577062,
-                "activities":{
-                    "clicks":{
-                        "count":46
-                    },
-                    "likes":{
-                        "count":1,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":0
-                    },
-                    "shares":{
-                        "count":0,
-                        "shared":true
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Whitelisted item running out of stock "
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"PRODUCT_BUY_NOW",
-                    "props":{
-                        "image":{
-                            "src":"http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
-                            "width":1080,
-                            "height":1440,
-                            "provider":"MYNT_ASSETS"
-                        },
-                        "productName":"American Swan Beige Trousers",
-                        "productPrice":"1599",
-                        "discountedPrice":"499",
-                        "productDiscount":"40% OFF"
-                    }
-                }
-            ]
-        },
-        {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"5:5578fd6b-830c-4a4f-a11b-46688d1685daa",
-                "meta":{
-                    "name":"COLLECTION",
-                    "app":{
-                        "id":2,
-                        "name":"Collections"
-                    },
-                    "tags":[
-                        "Eric Clapton",
-                        "Elvis Presley"
-                    ]
-                },
-                "sequence":1439161577061,
-                "activities":{
-                    "clicks":{
-                        "count":200
-                    },
-                    "likes":{
-                        "count":200,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":201
-                    },
-                    "shares":{
-                        "count":202,
-                        "shared":false
-                    }
-                }
-            },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"New in "
-                            },
-                            {
-                                "text":"men, ",
-                                "link":"/tags/grooming"
-                            },
-                            {
-                                "text":"Shaving",
-                                "link":"/tags/shaving"
-                            }
-                        ]
-                    }
-                },
-                {
-                    "type":"MOSAIC",
-                    "props":{
-                        "images":[
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            }
-                        ],
-                        "baseColor":"Black",
-                        "previewColors":[
-                            "Black",
-                            "Red",
-                            "Green",
-                            "Blue",
-                            "Brown"
-                        ],
-                        "totalStyles":23,
-                        "link":"http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Pick the right sideburns according to your face type",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Every face needs different types of sideburns",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_COMMENT_SHARE",
-                    "props":{
-
-                    }
-                }
-            ]
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
         }
-    ],
-    "page":{
-        "next":"/v2/feed?limit=1&after=1439161577062",
-        "previous":"/v2/feed?limit=1&before=1439161577062"
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in "
+              },
+              {
+                "text": "Grooming, ",
+                "link": "/tags/grooming"
+              },
+              {
+                "text": "Shaving",
+                "link": "/tags/shaving"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Every face needs different types of sideburns",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:55ihsdfb-830c-4a4f-a11b-46688d1685daa",
+        "meta": {
+          "name": "POLL",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_POLL",
+          "props": {
+            "timeLeft": 85365453,
+            "duration": 998287000
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "PRODUCT_SINGLE",
+          "props": {
+            "product": {
+              "stylename": "American Swan Men Brown Suede Casual Shoes",
+              "brands_facet": "American Swan1",
+              "price": "3999",
+              "discount": "1600",
+              "discounted_price": "2399",
+              "discount_label": "40% OFF",
+              "link": "/797080",
+              "image": {
+                "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                "width": 1080,
+                "height": 1440,
+                "provider": "MYNT_ASSETS"
+              }
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_POLL",
+          "props": {
+            "options": [
+              {
+                "id": 666,
+                "product": {
+                  "stylename": "American Swan Men Brown Suede Casual Shoes",
+                  "brands_facet": "American Swan1",
+                  "price": "3999",
+                  "discount": "1600",
+                  "discounted_price": "2399",
+                  "discount_label": "40% OFF",
+                  "link": "/797080",
+                  "image": {
+                    "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                    "width": 1080,
+                    "height": 1440,
+                    "provider": "MYNT_ASSETS"
+                  }
+                }
+              },
+              {
+                "id": 667,
+                "product": {
+                  "stylename": "American Swan Men Brown Suede Casual Shoes",
+                  "brands_facet": "American Swan1",
+                  "price": "3999",
+                  "discount": "1600",
+                  "discounted_price": "2399",
+                  "discount_label": "40% OFF",
+                  "link": "/797080",
+                  "image": {
+                    "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                    "width": 1080,
+                    "height": 1440,
+                    "provider": "MYNT_ASSETS"
+                  }
+                }
+              },
+              {
+                "id": 668,
+                "product": {
+                  "stylename": "American Swan Men Brown Suede Casual Shoes",
+                  "brands_facet": "American Swan1",
+                  "price": "3999",
+                  "discount": "1600",
+                  "discounted_price": "2399",
+                  "discount_label": "40% OFF",
+                  "link": "/797080",
+                  "image": {
+                    "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                    "width": 1080,
+                    "height": 1440,
+                    "provider": "MYNT_ASSETS"
+                  }
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "Created",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
+              "link": ""
+            },
+            "categoryPrefix": "in",
+            "categories": [
+              {
+                "name": "Collections",
+                "link": ""
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "PRODUCT_STORY",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_POLL",
+          "props": {
+            "timeLeft": 10365400,
+            "duration": 188286000
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "Created",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
+              "link": ""
+            },
+            "categoryPrefix": "in",
+            "categories": [
+              {
+                "name": "Collections",
+                "link": ""
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858331/Nike-Women-Orange-Air-Zoom-Pegasus-32-Running-Shoes_1_c63afa531d5714f34417d472c22ab35a.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858321/Nike-Men-Sports-Shoes_1_f2bb5617ab79db05c10d22534a8f0e92.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858198/Nike-Men-Black-Zoom-Speed-TR2-Training-Shoes_1_a874b121d5f9c7d454ba1fd74e4a0b45.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858320/Nike-Men-Sports-Shoes_1_87e1caa94be94331be91d903e6d8b535.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/877240/PUMA-Unisex-Navy-Salz-III-DP-Sneakers_1_2297c77214c6af16f169ee22d3d3dbd8.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/894559/Puma-Men-Flip-Flops_1_9fe71e38448976ffbce2898179581f5f.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "url": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/868109/PUMA-Unisex-Red-Echo-Backpack_1_213f80f8f1e691a66b67650cd3326e74.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "PRODUCT_STORY",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "url": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dab",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Must-haves",
+            "shop denims online",
+            "Denims for men",
+            "men",
+            "slim-fit pants",
+            "indigo denims",
+            "featured",
+            "Trends to Try",
+            "jeans for men online",
+            "Myntra",
+            "distressed denims for men",
+            "lookgood",
+            "black denims"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 6052
+          },
+          "likes": {
+            "count": 87,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in "
+              },
+              {
+                "text": "#Must-haves, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "#shop-denims-online",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323981735-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "Created",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
+              "link": ""
+            },
+            "categoryPrefix": "in",
+            "categories": [
+              {
+                "name": "Collections",
+                "link": ""
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 must-have denims that are trending right now",
+            "link": "http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Here is how you stay on trend boys!",
+            "link": "http://www.myntra.com/lookgood/2015/05/5-must-have-denims-that-are-trending-right-now/42900"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dac",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "Trivia, ",
+                "link": "/tags/trivia"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "The science behind good looks",
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "While making an effort to look stunning can make a difference in how people perceive you, here are some scientific reasons why some appear more attractive than others",
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "QUOTE_TEXT",
+          "props": {
+            "text": "While making an effort to look stunning can make a difference in how people perceive you."
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dad",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in "
+              },
+              {
+                "text": "Style Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "Men",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/image/style/properties/958098/Eavan-Navy-High-Low-Kurta_1_ade64b462f7398943ead72671e4cec65.jpg",
+              "width": 1080,
+              "height": 1440,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "7 simple rules",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Don’t just suit up, sock up too! Here are a few do’s and don’ts of wearing socks",
+            "link": "http://www.myntra.com/lookgood/2015/03/7-simple-rules/33679"
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dae",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#Style-Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Here's how to fake it",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Fake it till you make it: get the perfect body minus the gym and the diet",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dag",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#Style-Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "CAPTIONED_IMAGE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
+            "baseColor": "#2c3e50",
+            "title": "Fitness",
+            "description": "Quirky & effortless style, for the active girl"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Here's how to fake it",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Fake it till you make it: get the perfect body minus the gym and the diet",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dah",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#Style-Guru, ",
+                "link": "/tags/styleguru"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/men"
+              }
+            ]
+          }
+        },
+        {
+          "type": "CAPTIONED_IMAGE_CENTER",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
+            "baseColor": "#88e74c3c",
+            "title": "Party Hair",
+            "description": "Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured."
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Party Hair",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Forget spending hour styling your hair to get to your next party. Let your hair flow freely with a sexy tousled look that's soft and unstructured.",
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "mBMiWAQQ1FI",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
+              "width": 1280,
+              "height": 720,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 2:23"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "HOW TO GET A KNOTTED HAIR-DO FOR MEDIUM-LENGTH HAIR"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-4545-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "gEVVYaoBOIY",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789725-1434450789642get-the-perfect-make-up-base.jpg",
+              "width": 1280,
+              "height": 720,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 0:33"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Get the Perfect Make-Up Base"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-2323-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "LHol9scORho",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450780818-1434450780761how-to-store-your-bobby-pins.jpg",
+              "width": 1920,
+              "height": 1080,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 0:16"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "HOW TO STORE YOUR BOBBY PINS"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "VIDEO",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "VIDEO",
+          "props": {
+            "video": {
+              "src": "icwQKsgJHKc",
+              "provider": "YOUTUBE"
+            },
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/6/16/11434450789606-14344507895475-uses-of-vaseline-you-couldnt-h.jpg",
+              "width": 1920,
+              "height": 1080,
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "PRODUCT_STORY",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "url": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "5:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "meta": {
+          "name": "IMAGE",
+          "app": {
+            "id": 2,
+            "name": "Collections"
+          },
+          "tags": [
+            "Eric Clapton",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 1439161577061,
+        "activities": {
+          "clicks": {
+            "count": 200
+          },
+          "likes": {
+            "count": 200,
+            "liked": true
+          },
+          "comments": {
+            "count": 201
+          },
+          "shares": {
+            "count": 202,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured Store  "
+              },
+              {
+                "text": "running",
+                "link": "/tags/grooming"
+              }
+            ]
+          }
+        },
+        {
+          "type": "CAPTIONED_IMAGE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410",
+            "baseColor": "#2c3e50 ",
+            "title": "Fitness",
+            "description": "Quirky & effortless style, for the active girl"
+          }
+        },
+        {
+          "type": "IMAGE4",
+          "props": {
+            "store_image1": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS",
+              "title": "Dresses",
+              "link": ""
+            },
+            "store_image2": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS",
+              "title": "Skirts",
+              "link": ""
+            },
+            "store_image3": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS",
+              "title": "Trousers",
+              "link": ""
+            },
+            "store_image4": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
+              "width": 1140,
+              "height": 750,
+              "provider": "MYNT_ASSETS",
+              "title": "TShirts",
+              "link": ""
+            }
+          }
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "COLLECTION",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured in "
+              },
+              {
+                "text": "#DIY, ",
+                "link": "/tags/diy"
+              },
+              {
+                "text": "#Style",
+                "link": "/tags/style"
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_RACK",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "url": "/858669",
+                "image": {
+                  "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "MOSAIC",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "baseColor": "Black",
+            "previewColors": [
+              "Black",
+              "Red",
+              "Green",
+              "Blue",
+              "Brown"
+            ],
+            "totalStyles": 23,
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "VIDEO | 1:17"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "5 uses of Vaseline you couldn’t have guessed"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "meta": {
+          "name": "PRODUCT",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Style Guru",
+            "men",
+            "men's fashion",
+            "featured",
+            "rules to wearing socks",
+            "style rules",
+            "sock etiquettes",
+            "Style Help"
+          ]
+        },
+        "sequence": 1439161577062,
+        "activities": {
+          "clicks": {
+            "count": 46
+          },
+          "likes": {
+            "count": 1,
+            "liked": true
+          },
+          "comments": {
+            "count": 0
+          },
+          "shares": {
+            "count": 0,
+            "shared": true
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Whitelisted item running out of stock "
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_BUY_NOW",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+              "width": 1080,
+              "height": 1440,
+              "provider": "MYNT_ASSETS"
+            },
+            "productName": "American Swan Beige Trousers",
+            "productPrice": "1599",
+            "discountedPrice": "499",
+            "productDiscount": "40% OFF"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "5:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "meta": {
+          "name": "COLLECTION",
+          "app": {
+            "id": 2,
+            "name": "Collections"
+          },
+          "tags": [
+            "Eric Clapton",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 1439161577061,
+        "activities": {
+          "clicks": {
+            "count": 200
+          },
+          "likes": {
+            "count": 200,
+            "liked": true
+          },
+          "comments": {
+            "count": 201
+          },
+          "shares": {
+            "count": 202,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in "
+              },
+              {
+                "text": "men, ",
+                "link": "/tags/grooming"
+              },
+              {
+                "text": "Shaving",
+                "link": "/tags/shaving"
+              }
+            ]
+          }
+        },
+        {
+          "type": "MOSAIC",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "baseColor": "Black",
+            "previewColors": [
+              "Black",
+              "Red",
+              "Green",
+              "Blue",
+              "Brown"
+            ],
+            "totalStyles": 23,
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Every face needs different types of sideburns",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "props": {}
+        }
+      ]
     }
+  ],
+  "page": {
+    "next": "/v2/feed?limit=1&after=1439161577062",
+    "previous": "/v2/feed?limit=1&before=1439161577062"
+  }
 }
