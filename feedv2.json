@@ -2241,16 +2241,19 @@
         {
           "type": "PRODUCT_BUY_NOW",
           "props": {
+            "stylename": "American Swan Men Brown Suede Casual Shoes",
+            "brands_facet": "American Swan1",
+            "price": "3999",
+            "discount": "1600",
+            "discounted_price": "2399",
+            "discount_label": "40% OFF",
+            "link": "/797080",
             "image": {
-              "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+              "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg (287KB)",
               "width": 1080,
               "height": 1440,
               "provider": "MYNT_ASSETS"
-            },
-            "productName": "American Swan Beige Trousers",
-            "productPrice": "1599",
-            "discountedPrice": "499",
-            "productDiscount": "40% OFF"
+            }
           }
         }
       ]
