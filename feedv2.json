@@ -2098,33 +2098,33 @@
           "type": "IMAGE4",
           "props": {
             "store_image1": {
-              "src": "http://myntra.myntassets.com/image/style/properties/874876/Tokyo-Talkies-Women-Dresses_1_20dec5ed9a8cb639d375bc50a9bfe8ed.jpg",
-              "width": 1080,
-              "height": 1440,
+              "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
+              "width": 400,
+              "height": 600,
               "provider": "MYNT_ASSETS",
               "title": "Dresses",
               "link": "/dresses"
             },
             "store_image2": {
-              "src": "http://myntra.myntassets.com/image/style/properties/918846/Maysa-Navy-Pleated-Midi-Skirt_1_460084eb9bdce7a12aec5e8afbb149f5.jpg",
-              "width": 1080,
-              "height": 1440,
+              "src": "http://www.stylishtrendy.com/wp-content/uploads/2012/05/SABO-SKIRT-Women%E2%80%99s-Mini-Skirts-neon-woven-skirt.jpg",
+              "width": 400,
+              "height": 600,
               "provider": "MYNT_ASSETS",
               "title": "Skirts",
               "link": "/skirts"
             },
             "store_image3": {
-              "src": "http://myntra.myntassets.com/assets/images/709900/2015/9/9/11441797356336-RDSTR-Khaki-Slim-Fit-Cargo-Trousers-6331441797355916-1.jpg",
-              "width": 1080,
-              "height": 1440,
+              "src": "http://v1.everything5pounds.com/images/mu/2015/08/10/high-waist-slim-leg-black-trousers-black-15289-4.jpg",
+              "width": 400,
+              "height": 600,
               "provider": "MYNT_ASSETS",
               "title": "Trousers",
               "link": "/trousers"
             },
             "store_image4": {
-              "src": "http://myntra.myntassets.com/image/style/properties/686181/Avengers-by-Free-Authority-Men-White-Printed-T-shirt_1_3f8bf5ae65e723f7c925f6c8722713e9.jpg",
-              "width": 1080,
-              "height": 1440,
+              "src": "http://www.truereligionbrand.us.com/images/en/True_Religion_T_shirts_Men_Discount_ID264.jpg",
+              "width": 400,
+              "height": 600,
               "provider": "MYNT_ASSETS",
               "title": "TShirts",
               "link": "/tshirts"
