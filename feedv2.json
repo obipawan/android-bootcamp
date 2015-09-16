@@ -1882,6 +1882,134 @@
           }
         },
         {
+          "type": "DIY_RACK",
+          "props": {
+            "cards": [
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot2-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot1-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot3-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              }
+            ],
+            "author": {
+              "firstname": "Fox One",
+              "lastname": null,
+              "bio": "Ggt",
+              "imageJsonEntryMap": {
+                "PROFILE": "{\"id\":726953,\"createdBy\":\"system\",\"createdOn\":1432827552000,\"lastModifiedOn\":1432827552000,\"version\":0,\"format\":\"jpg\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg\",\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"storedUploaderType\":\"S3\",\"servingUploaderType\":\"S3\",\"isDynamicallyUploaded\":false,\"isCompressed\":false,\"attributes\":{\"aspectRatio\":\"1:1\",\"size\":\"139936\"},\"resolutions\":{\"1020X1020\":{\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz_1020_1020.jpg\"}}}",
+                "PROFILE_DEFAULT": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg"
+              },
+              "image": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg",
+              "imageType": "EXTERNAL_URL",
+              "coverImage": null,
+              "coverImageType": null,
+              "publicProfileId": "fox.te",
+              "uidx": "9dca79cf.2e5a.4674.8dc1.42d1bfc208a6RHOJdhAV2P",
+              "tagsMap": "{\"roles\":[\"MODERATOR\"],\"myntraVerified\":false,\"invited\":true}",
+              "counts": {
+                "followers": 1,
+                "following": 2
+              },
+              "relations": {
+                "following": false,
+                "follower": false
+              }
+            }
+          }
+        },
+        {
+          "type": "DIY_RACK",
+          "props": {
+            "cards": [
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot2-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot1-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot3-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              }
+            ],
+            "author": {
+              "firstname": "Fox One",
+              "lastname": null,
+              "bio": "Ggt",
+              "imageJsonEntryMap": {
+                "PROFILE": "{\"id\":726953,\"createdBy\":\"system\",\"createdOn\":1432827552000,\"lastModifiedOn\":1432827552000,\"version\":0,\"format\":\"jpg\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg\",\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"storedUploaderType\":\"S3\",\"servingUploaderType\":\"S3\",\"isDynamicallyUploaded\":false,\"isCompressed\":false,\"attributes\":{\"aspectRatio\":\"1:1\",\"size\":\"139936\"},\"resolutions\":{\"1020X1020\":{\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz_1020_1020.jpg\"}}}",
+                "PROFILE_DEFAULT": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg"
+              },
+              "image": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg",
+              "imageType": "EXTERNAL_URL",
+              "coverImage": null,
+              "coverImageType": null,
+              "publicProfileId": "fox.te",
+              "uidx": "9dca79cf.2e5a.4674.8dc1.42d1bfc208a6RHOJdhAV2P",
+              "tagsMap": "{\"roles\":[\"MODERATOR\"],\"myntraVerified\":false,\"invited\":true}",
+              "counts": {
+                "followers": 1,
+                "following": 2
+              },
+              "relations": {
+                "following": false,
+                "follower": false
+              }
+            }
+          }
+        },
+        {
           "type": "DESCRIPTION_TEXT",
           "props": {
             "text": "VIDEO | 1:17"
@@ -2255,6 +2383,70 @@
               "provider": "MYNT_ASSETS"
             }
           }
+        },
+        {
+          "type": "DIY_RACK",
+          "props": {
+            "cards": [
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot2-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot1-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot3-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              }
+            ],
+            "author": {
+              "firstname": "Fox One",
+              "lastname": null,
+              "bio": "Ggt",
+              "imageJsonEntryMap": {
+                "PROFILE": "{\"id\":726953,\"createdBy\":\"system\",\"createdOn\":1432827552000,\"lastModifiedOn\":1432827552000,\"version\":0,\"format\":\"jpg\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg\",\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"storedUploaderType\":\"S3\",\"servingUploaderType\":\"S3\",\"isDynamicallyUploaded\":false,\"isCompressed\":false,\"attributes\":{\"aspectRatio\":\"1:1\",\"size\":\"139936\"},\"resolutions\":{\"1020X1020\":{\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz_1020_1020.jpg\"}}}",
+                "PROFILE_DEFAULT": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg"
+              },
+              "image": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg",
+              "imageType": "EXTERNAL_URL",
+              "coverImage": null,
+              "coverImageType": null,
+              "publicProfileId": "fox.te",
+              "uidx": "9dca79cf.2e5a.4674.8dc1.42d1bfc208a6RHOJdhAV2P",
+              "tagsMap": "{\"roles\":[\"MODERATOR\"],\"myntraVerified\":false,\"invited\":true}",
+              "counts": {
+                "followers": 1,
+                "following": 2
+              },
+              "relations": {
+                "following": false,
+                "follower": false
+              }
+            }
+          }
         }
       ]
     },
@@ -2355,6 +2547,70 @@
             ],
             "totalStyles": 23,
             "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "DIY_RACK",
+          "props": {
+            "cards": [
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot2-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot1-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              },
+              {
+                "id": "797080",
+                "heading": "AmericanSwanMenBrownSuedeCasualShoes",
+                "image": {
+                  "src": "http://agreeordie.com/wp-content/uploads/2014/06/tulip-knot3-300x300.jpg",
+                  "width": 1080,
+                  "height": 1440,
+                  "provider": "MYNT_ASSETS"
+                },
+                "description": "Doyourselfafavourandweardresssocksthatarelongenoughtocoveryourcalves"
+              }
+            ],
+            "author": {
+              "firstname": "Fox One",
+              "lastname": null,
+              "bio": "Ggt",
+              "imageJsonEntryMap": {
+                "PROFILE": "{\"id\":726953,\"createdBy\":\"system\",\"createdOn\":1432827552000,\"lastModifiedOn\":1432827552000,\"version\":0,\"format\":\"jpg\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg\",\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"storedUploaderType\":\"S3\",\"servingUploaderType\":\"S3\",\"isDynamicallyUploaded\":false,\"isCompressed\":false,\"attributes\":{\"aspectRatio\":\"1:1\",\"size\":\"139936\"},\"resolutions\":{\"1020X1020\":{\"domain\":\"http://myntra.myntassets.com/\",\"securedDomain\":\"https://myntrawebimages.s3.amazonaws.com/\",\"path\":\"assets/banners/2015/5/28/1432827552277-25862-of1nrz_1020_1020.jpg\"}}}",
+                "PROFILE_DEFAULT": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg"
+              },
+              "image": "http://myntra.myntassets.com/assets/banners/2015/5/28/1432827552277-25862-of1nrz.jpg",
+              "imageType": "EXTERNAL_URL",
+              "coverImage": null,
+              "coverImageType": null,
+              "publicProfileId": "fox.te",
+              "uidx": "9dca79cf.2e5a.4674.8dc1.42d1bfc208a6RHOJdhAV2P",
+              "tagsMap": "{\"roles\":[\"MODERATOR\"],\"myntraVerified\":false,\"invited\":true}",
+              "counts": {
+                "followers": 1,
+                "following": 2
+              },
+              "relations": {
+                "following": false,
+                "follower": false
+              }
+            }
           }
         },
         {
