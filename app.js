@@ -12,6 +12,7 @@ var feedbefore = require('./feedv1.1before.json');
 var feedafter = require('./feedv1.1after.json');
 var feedzero = require('./feedempty.json');
 var androidConfig = require('./androidconfig.json');
+var androidjsx = require('./android.js');
 var port = process.env.PORT || config.koa.port || 3000;
 
 app.use(router(app));
@@ -58,6 +59,11 @@ app.get('/lgp/v1.1/feed', function*(next){
 
 app.get('/config/android', function*(next){
 	this.body = JSON.stringify(androidConfig);
+	yield next;
+});
+
+app.get('/js', function*(next){
+	this.body = JSON.stringify(androidjsx);
 	yield next;
 });
 
