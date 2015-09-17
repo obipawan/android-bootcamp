@@ -27,6 +27,11 @@ app.get('/lgp/v2/feed/hotlist/android', function*(next){
 	yield next;
 });
 
+app.post('/v2/action', function*(next){
+	this.body = 'OK';
+	yield next;
+});
+
 app.get('/lgp/v1.1/feed', function*(next){
 		if(this.query.before){
 			if(this.query.before == '1436459407001'){
