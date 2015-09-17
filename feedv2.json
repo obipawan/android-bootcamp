@@ -4,7 +4,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -24,7 +24,7 @@
             "Elvis Presley"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 100,
         "activities": {
           "clicks": {
             "count": 6974
@@ -100,7 +100,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:55ihsdfb-830c-4a4f-a11b-46688d1685daa",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685101",
         "meta": {
           "name": "POLL",
           "app": {
@@ -120,7 +120,7 @@
             "Elvis Presley"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 101,
         "activities": {
           "clicks": {
             "count": 6974
@@ -400,7 +400,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685102",
         "meta": {
           "name": "PRODUCT_STORY",
           "app": {
@@ -418,7 +418,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 102,
         "activities": {
           "clicks": {
             "count": 46
@@ -661,7 +661,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685103",
         "meta": {
           "name": "PRODUCT_STORY",
           "app": {
@@ -679,7 +679,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 103,
         "activities": {
           "clicks": {
             "count": 46
@@ -793,7 +793,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dab",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685104",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -816,7 +816,7 @@
             "black denims"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 104,
         "activities": {
           "clicks": {
             "count": 6052
@@ -920,7 +920,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dac",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685105",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -938,7 +938,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 105,
         "activities": {
           "clicks": {
             "count": 46
@@ -1016,7 +1016,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dad",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685106",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -1034,7 +1034,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 106,
         "activities": {
           "clicks": {
             "count": 46
@@ -1106,7 +1106,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dae",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685107",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -1124,7 +1124,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 107,
         "activities": {
           "clicks": {
             "count": 46
@@ -1200,7 +1200,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dag",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685108",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -1218,7 +1218,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 108,
         "activities": {
           "clicks": {
             "count": 46
@@ -1297,7 +1297,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685dah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685109",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -1315,7 +1315,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 109,
         "activities": {
           "clicks": {
             "count": 46
@@ -1394,7 +1394,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685110",
         "meta": {
           "name": "VIDEO",
           "app": {
@@ -1412,7 +1412,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 110,
         "activities": {
           "clicks": {
             "count": 46
@@ -1489,7 +1489,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-4545-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685111",
         "meta": {
           "name": "VIDEO",
           "app": {
@@ -1507,7 +1507,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 111,
         "activities": {
           "clicks": {
             "count": 46
@@ -1584,7 +1584,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-2323-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685112",
         "meta": {
           "name": "VIDEO",
           "app": {
@@ -1602,7 +1602,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 112,
         "activities": {
           "clicks": {
             "count": 46
@@ -1679,7 +1679,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685113",
         "meta": {
           "name": "VIDEO",
           "app": {
@@ -1697,7 +1697,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 113,
         "activities": {
           "clicks": {
             "count": 46
@@ -1774,7 +1774,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685114",
         "meta": {
           "name": "PRODUCT_STORY",
           "app": {
@@ -1792,7 +1792,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 114,
         "activities": {
           "clicks": {
             "count": 46
@@ -2034,7 +2034,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "5:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685115",
         "meta": {
           "name": "IMAGE",
           "app": {
@@ -2046,7 +2046,7 @@
             "Elvis Presley"
           ]
         },
-        "sequence": 1439161577061,
+        "sequence": 115,
         "activities": {
           "clicks": {
             "count": 200
@@ -2140,7 +2140,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685116",
         "meta": {
           "name": "COLLECTION",
           "app": {
@@ -2158,7 +2158,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 116,
         "activities": {
           "clicks": {
             "count": 46
@@ -2319,7 +2319,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5308fd6b-830c-4a4f-a11b-46688d168s3ah",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685117",
         "meta": {
           "name": "PRODUCT",
           "app": {
@@ -2337,7 +2337,7 @@
             "Style Help"
           ]
         },
-        "sequence": 1439161577062,
+        "sequence": 117,
         "activities": {
           "clicks": {
             "count": 46
@@ -2453,7 +2453,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "5:5578fd6b-830c-4a4f-a11b-46688d1685daa",
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685118",
         "meta": {
           "name": "COLLECTION",
           "app": {
@@ -2465,7 +2465,7 @@
             "Elvis Presley"
           ]
         },
-        "sequence": 1439161577061,
+        "sequence": 118,
         "activities": {
           "clicks": {
             "count": 200
