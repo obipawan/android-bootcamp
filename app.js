@@ -27,7 +27,7 @@ app.get('/lgp/v2/feed/hotlist/android', function*(next){
 	yield next;
 });
 
-app.post('/v2/action', function*(next){
+app.post('/lgp/v2/action', function*(next){
 	this.body = 'OK';
 	yield next;
 });
