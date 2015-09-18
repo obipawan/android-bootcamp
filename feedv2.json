@@ -2401,41 +2401,8 @@
           }
         },
         {
-          "type": "IMAGE4",
-          "props": {
-            "store_image1": {
-              "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Dresses",
-              "link": "/dresses"
-            },
-            "store_image2": {
-              "src": "http://www.stylishtrendy.com/wp-content/uploads/2012/05/SABO-SKIRT-Women%E2%80%99s-Mini-Skirts-neon-woven-skirt.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Skirts",
-              "link": "/skirts"
-            },
-            "store_image3": {
-              "src": "http://v1.everything5pounds.com/images/mu/2015/08/10/high-waist-slim-leg-black-trousers-black-15289-4.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Trousers",
-              "link": "/trousers"
-            },
-            "store_image4": {
-              "src": "http://www.truereligionbrand.us.com/images/en/True_Religion_T_shirts_Men_Discount_ID264.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "TShirts",
-              "link": "/tshirts"
-            }
-          }
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
         },
         {
           "type": "FOOTER_LIKE_COMMENT_SHARE",
