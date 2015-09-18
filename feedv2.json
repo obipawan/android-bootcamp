@@ -40,10 +40,10 @@
           "props": {
             "title": [
               {
-                "text": "Featured Store  "
+                "text": "Featured store  "
               },
               {
-                "text": "running",
+                "text": "#running",
                 "link": "/tags/run"
               }
             ]
