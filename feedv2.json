@@ -2580,11 +2580,11 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_FOLLOW_SHARE",
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_SHARE",
+          "type": "FOOTER_LIKE_FOLLOW_SHARE",
           "props": {}
         }
       ]
