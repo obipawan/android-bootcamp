@@ -101,7 +101,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -197,7 +197,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -302,7 +302,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -398,7 +398,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -698,7 +698,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -959,7 +959,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1091,7 +1091,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1218,7 +1218,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1314,7 +1314,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1404,7 +1404,7 @@
           }
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1498,7 +1498,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1595,7 +1595,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1692,7 +1692,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1787,7 +1787,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1882,7 +1882,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -1977,7 +1977,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -2072,7 +2072,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -2332,7 +2332,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -2584,7 +2584,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
@@ -2905,7 +2905,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_COMMENT_SHARE",
+          "type": "FOOTER_LIKE_SHARE",
           "props": {}
         }
       ]
