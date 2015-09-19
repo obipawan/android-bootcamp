@@ -2580,7 +2580,7 @@
           }
         },
         {
-          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "type": "FOOTER_LIKE_FOLLOW_SHARE",
           "props": {}
         },
         {
