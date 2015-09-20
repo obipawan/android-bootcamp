@@ -32,6 +32,34 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
+        "id": "hpb_1a_promotion-",
+        "meta": {
+          "name": "BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 8
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
+              "width": 980,
+              "height": 980,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
+          }
+        }
+      ]
+    }
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
         "id": "",
         "meta": {
           "name": "SPLIT-BANNER",
