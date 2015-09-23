@@ -6,6 +6,7 @@ var app = require('koa')(),
 
 var config = require(__dirname + '/config.js');
 var feedv2 = require('./feedv2.json');
+var feedObject = require('./feedv2object.json');
 var hotlistv2 = require('./hotlistv2.json');
 var feed = require('./feedv1.1.json');
 var feedbefore = require('./feedv1.1before.json');
@@ -29,6 +30,11 @@ app.get('/lgp/v2/feed/hotlist/android', function*(next){
 
 app.post('/lgp/v2/action', function*(next){
 	this.body = 'OK';
+	yield next;
+});
+
+app.get('/lgp/v2/feed/object/:id', function*(next){
+	this.body = JSON.stringify(feedObject);
 	yield next;
 });
 
