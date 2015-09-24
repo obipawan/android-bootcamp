@@ -326,60 +326,59 @@
           "props": {
             "title": [
               {
-                "text": "Featured store  "
+                "text": "New in "
               },
               {
-                "text": "#running",
-                "link": "/tags/run"
+                "text": "#grooming",
+                "link": "/grooming"
               }
             ]
           }
         },
         {
-          "type": "STORE_BRAND",
+          "type": "IMAGE_2",
           "props": {
-            "storeImageHero": {
-              "src": "http://www.theathletesfoot.com.au/blog/wp-content/uploads/2014/08/Nike1.jpg",
-              "width": 800,
-              "height": 533,
-              "provider": "MYNT_ASSETS",
-              "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
-            },
-            "baseColor": "#2c3e50",
-            "title": "Fitness",
-            "description": "Quirky & effortless style, for the active Athlete",
-            "storeImage1": {
-              "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Dresses",
-              "link": "/dresses"
-            },
-            "storeImage2": {
-              "src": "http://www.stylishtrendy.com/wp-content/uploads/2012/05/SABO-SKIRT-Women%E2%80%99s-Mini-Skirts-neon-woven-skirt.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Skirts",
-              "link": "/skirts"
-            },
-            "storeImage3": {
-              "src": "http://v1.everything5pounds.com/images/mu/2015/08/10/high-waist-slim-leg-black-trousers-black-15289-4.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "Trousers",
-              "link": "/trousers"
-            },
-            "storeImage4": {
-              "src": "http://www.truereligionbrand.us.com/images/en/True_Religion_T_shirts_Men_Discount_ID264.jpg",
-              "width": 400,
-              "height": 600,
-              "provider": "MYNT_ASSETS",
-              "title": "TShirts",
-              "link": "/tshirts"
-            }
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/assets/images/976627/2015/9/24/11443087247412-Adidas-Teal-Green-STRGR-SS-Training-T-shirt-911443087245421-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/845235/Adidas-Men-Blue-Messi-154-Football-Shoes_1_07379100c5c5733776a60bf18f2353f2.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "IMAGE_3",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
           }
         },
         {
