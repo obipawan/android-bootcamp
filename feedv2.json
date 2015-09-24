@@ -1,5 +1,5 @@
 {
-  "count": 23,
+  "count": 24,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -388,6 +388,176 @@
         },
         {
           "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685101",
+        "meta": {
+          "name": "POLL",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 101,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_POLL",
+          "props": {
+            "timeLeft": 85365453,
+            "duration": 998287000
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "PRODUCT_SINGLE",
+          "props": {
+            "product": {
+              "stylename": "American Swan Men Brown Suede Casual Shoes",
+              "brands_facet": "American Swan1",
+              "price": "3999",
+              "discount": "1600",
+              "discounted_price": "2399",
+              "discount_label": "40% OFF",
+              "link": "/797080",
+              "image": {
+                "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                "width": 1080,
+                "height": 1440,
+                "provider": "MYNT_ASSETS"
+              }
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_POLL",
+          "props": {
+            "options": [
+              {
+                "id": 666,
+                "votes": 10,
+                "isVoted": false,
+                "label": "B",
+                "image": {
+                  "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
+                  "width": 800,
+                  "height": 430,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "id": 667,
+                "votes": 10,
+                "isVoted": false,
+                "label": "B",
+                "image": {
+                  "src": "http://www.stylishtrendy.com/wp-content/uploads/2012/05/SABO-SKIRT-Women%E2%80%99s-Mini-Skirts-neon-woven-skirt.jpg",
+                  "width": 800,
+                  "height": 430,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "id": 668,
+                "votes": 10,
+                "isVoted": false,
+                "label": "C",
+                "image": {
+                  "src": "http://v1.everything5pounds.com/images/mu/2015/08/10/high-waist-slim-leg-black-trousers-black-15289-4.jpg",
+                  "width": 800,
+                  "height": 430,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "Poll Posted",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Kriti",
+              "lastname": "Sharma",
+              "publicProfileId": "Kriti.Sharma-tde",
+              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
+              "link": ""
+            },
+            "categoryPrefix": "in",
+            "categories": [
+              {
+                "name": "Threads",
+                "link": "/threads"
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "FEEDBACK_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_COMMENT_SHARE_MORE",
           "props": {}
         }
       ]
