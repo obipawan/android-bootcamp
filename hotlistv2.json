@@ -1,10 +1,10 @@
 {
-  "count": 5,
+  "count": 4,
   "cards": [
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "the-new-pinch-sale1",
+        "id": "hpb_1a_promotion-",
         "meta": {
           "name": "BANNER",
           "app": {
@@ -19,12 +19,12 @@
           "type": "BANNER",
           "props": {
             "image": {
-              "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/24/new/new-arrivals-sale_01.jpg",
+              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
               "width": 980,
-              "height": 726,
+              "height": 980,
               "provider": "MYNT_ASSETS"
             },
-            "link": "/the-new-pinch-sale"
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
           }
         }
       ]
@@ -32,7 +32,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "the-new-pinch-sale-3",
+        "id": "hpb_1a_promotion-",
         "meta": {
           "name": "BANNER",
           "app": {
@@ -40,19 +40,19 @@
             "name": "CoMS"
           }
         },
-        "sequence": 1
+        "sequence": 6
       },
       "children": [
         {
           "type": "BANNER",
           "props": {
             "image": {
-              "src": "http://myntra.myntassets.com/assets/banners/home/ffgucae/tnc.jpg",
+              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
               "width": 980,
-              "height": 70,
+              "height": 980,
               "provider": "MYNT_ASSETS"
             },
-            "link": "/tac"
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
           }
         }
       ]
@@ -60,9 +60,53 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "the-new-pinch-sale9.1",
+        "id": "",
         "meta": {
-          "name": "BANNER",
+          "name": "SPLIT_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-women.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/women"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "SPLIT_BANNER",
           "app": {
             "id": 2,
             "name": "CoMS"
@@ -72,15 +116,24 @@
       },
       "children": [
         {
-          "type": "BANNER",
+          "type": "SPLIT_BANNER",
           "props": {
-            "link": "/deals",
-            "image": {
-              "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/25/offers/flat-80.jpg",
-              "width": 980,
-              "height": 400,
-              "provider": "MYNT_ASSETS"
-            }
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
           }
         }
       ]
@@ -88,34 +141,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "the-new-pinch-sale2",
-        "meta": {
-          "name": "BANNER",
-          "app": {
-            "id": 2,
-            "name": "CoMS"
-          }
-        },
-        "sequence": 3
-      },
-      "children": [
-        {
-          "type": "BANNER",
-          "props": {
-            "image": {
-              "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/24/new/new-arrivals-sale_02.jpg",
-              "width": 980,
-              "height": 83,
-              "provider": "MYNT_ASSETS"
-            }
-          }
-        }
-      ]
-    },
-    {
-      "type": "COMPONENT_CARD",
-      "props": {
-        "id": "the-new-pinch-sale11",
+        "id": "",
         "meta": {
           "name": "SPLIT_BANNER",
           "app": {
@@ -123,7 +149,7 @@
             "name": "CoMS"
           }
         },
-        "sequence": 8
+        "sequence": 5
       },
       "children": [
         {
@@ -131,25 +157,11 @@
           "props": {
             "splits": [
               {
-                "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/24/new/new-arrivals-sale_16.jpg",
-                "width": 326,
-                "height": 309,
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
                 "provider": "MYNT_ASSETS",
-                "link": "/nike?f=discount%3A20.0"
-              },
-              {
-                "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/24/new/new-arrivals-sale_17.jpg",
-                "width": 326,
-                "height": 309,
-                "provider": "MYNT_ASSETS",
-                "link": "/puma?f=discount%3A20.0"
-              },
-              {
-                "src": "http://myntra.myntassets.com/assets/banners/home/2015/sep/24/new/new-arrivals-sale_18.jpg",
-                "width": 326,
-                "height": 309,
-                "provider": "MYNT_ASSETS",
-                "link": "/roadster?f=discount%3A30.0"
+                "link": "/shop/men"
               }
             ]
           }
