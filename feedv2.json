@@ -1,6 +1,111 @@
 {
-  "count": 28,
+  "count": 29,
   "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685120",
+        "meta": {
+          "name": "STORE",
+          "app": {
+            "id": 2,
+            "name": "Collections"
+          },
+          "tags": [
+            "Fitness",
+            "Fitness Gear"
+          ]
+        },
+        "sequence": 120,
+        "activities": {
+          "clicks": {
+            "count": 111
+          },
+          "likes": {
+            "count": 111,
+            "liked": false
+          },
+          "comments": {
+            "count": 201
+          },
+          "shares": {
+            "count": 202,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Featured store  "
+              },
+              {
+                "text": "#running",
+                "link": "/run"
+              }
+            ]
+          }
+        },
+        {
+          "type": "STORE_BRAND",
+          "props": {
+            "storeImageHero": {
+              "src": "http://www.theathletesfoot.com.au/blog/wp-content/uploads/2014/08/Nike1.jpg",
+              "width": 800,
+              "height": 533,
+              "provider": "MYNT_ASSETS",
+              "link": "http://www.myntra.com/lookgood/2015/01/all-you-need-to-know-about-shapewear/27410"
+            },
+            "baseColor": "#2c3e50",
+            "title": "Fitness",
+            "description": "Quirky & effortless style, for the active Athlete",
+            "storeImage1": {
+              "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
+              "width": 400,
+              "height": 600,
+              "provider": "MYNT_ASSETS",
+              "title": "Dresses",
+              "link": "/dresses"
+            },
+            "storeImage2": {
+              "src": "http://www.stylishtrendy.com/wp-content/uploads/2012/05/SABO-SKIRT-Women%E2%80%99s-Mini-Skirts-neon-woven-skirt.jpg",
+              "width": 400,
+              "height": 600,
+              "provider": "MYNT_ASSETS",
+              "title": "Skirts",
+              "link": "/skirts"
+            },
+            "storeImage3": {
+              "src": "http://v1.everything5pounds.com/images/mu/2015/08/10/high-waist-slim-leg-black-trousers-black-15289-4.jpg",
+              "width": 400,
+              "height": 600,
+              "provider": "MYNT_ASSETS",
+              "title": "Trousers",
+              "link": "/trousers"
+            },
+            "storeImage4": {
+              "src": "http://www.truereligionbrand.us.com/images/en/True_Religion_T_shirts_Men_Discount_ID264.jpg",
+              "width": 400,
+              "height": 600,
+              "provider": "MYNT_ASSETS",
+              "title": "TShirts",
+              "link": "/tshirts"
+            }
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
     {
       "type": "COMPONENT_CARD",
       "props": {
