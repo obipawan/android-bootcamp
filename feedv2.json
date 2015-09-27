@@ -168,7 +168,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_SHARE",
+          "type": "FOOTER_LIKE_COMMENT_SHARE",
           "props": {}
         }
       ]
@@ -251,7 +251,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_LIKE_SHARE",
+          "type": "FOOTER_LIKE_FOLLOW_SHARE",
           "props": {}
         }
       ]
