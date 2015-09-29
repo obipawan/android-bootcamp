@@ -992,7 +992,7 @@
           "props": {}
         },
         {
-          "type": "FOOTER_COMMENT_SHARE_MORE",
+          "type": "FOOTER_COMMENT_SHARE",
           "props": {}
         }
       ]
