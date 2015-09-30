@@ -363,6 +363,7 @@
                 "isVoted": false,
                 "label": "A",
                 "votes": 20,
+                "top": true,
                 "product": {
                   "stylename": "American Swan Men Brown Suede Casual Shoes",
                   "brands_facet": "American Swan1",
@@ -421,7 +422,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "totalVotes":60
           }
         },
         {
