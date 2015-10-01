@@ -1100,9 +1100,10 @@
             "options": [
               {
                 "id": 666,
-                "votes": 10,
+                "votes": 20,
                 "isVoted": false,
-                "label": "B",
+                "label": "A",
+                "top": true,
                 "image": {
                   "src": "http://bloote.com/wp-content/uploads/2015/07/Long-formal-dresses-2.jpg",
                   "width": 800,
@@ -1134,7 +1135,8 @@
                   "provider": "MYNT_ASSETS"
                 }
               }
-            ]
+            ],
+            "totalVotes": 40
           }
         },
         {
@@ -1523,6 +1525,7 @@
                 "votes": 40,
                 "isVoted": false,
                 "label": "C",
+                "top": true,
                 "product": {
                   "stylename": "American Swan Men Brown Suede Casual Shoes",
                   "brands_facet": "American Swan1",
@@ -1539,7 +1542,8 @@
                   }
                 }
               }
-            ]
+            ],
+            "totalVotes": 70
           }
         },
         {
