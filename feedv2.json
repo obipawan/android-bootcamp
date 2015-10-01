@@ -423,7 +423,7 @@
                 }
               }
             ],
-            "totalVotes":60
+            "totalVotes": 60
           }
         },
         {
@@ -3764,110 +3764,106 @@
           }
         },
         {
-            "type":"COMPONENT_CARD",
-            "props":{
-                "id":"2:5578fd6b-830c-4a4f-a11b-46688d1685100",
-                "meta":{
-                    "name":"QA",
-                    "app":{
-                        "id":2,
-                        "name":"CoMS"
-                    },
-                    "tags":[
-                        "Elvis",
-                        "men",
-                        "Beauty & Grooming",
-                        "featured",
-                        "Elvis Presley"
-                    ]
-                },
-                "sequence":100,
-                "activities":{
-                    "clicks":{
-                        "count":111
-                    },
-                    "likes":{
-                        "count":222,
-                        "liked":true
-                    },
-                    "comments":{
-                        "count":3
-                    },
-                    "shares":{
-                        "count":4,
-                        "shared":false
-                    }
-                }
+          "type": "COMPONENT_CARD",
+          "props": {
+            "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+            "meta": {
+              "name": "QA",
+              "app": {
+                "id": 2,
+                "name": "CoMS"
+              },
+              "tags": [
+                "Elvis",
+                "men",
+                "Beauty & Grooming",
+                "featured",
+                "Elvis Presley"
+              ]
             },
-            "children":[
-                {
-                    "type":"HEADER_CONTEXT_TIMER",
-                    "props":{
-                        "title":[
-                            {
-                                "text":"Answered by "
-                            },
-                            {
-                                "text":"Sunil Sharma ",
-                                "link":"/tags/grooming"
-                            }
-                        ],
-                        "timestampInMillis":"1441883006000"
-                    }
-                },
-                {
-                    "type":"IMAGE_3",
-                    "props":{
-                        "images":[
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            },
-                            {
-                                "src":"http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
-                                "width":800,
-                                "height":430,
-                                "provider":"MYNT_ASSETS"
-                            }
-                        ],
-                        "link":"http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
-                    }
-                },
-                {
-                    "type":"TITLE_TEXT",
-                    "props":{
-                        "text":"Pick the right sideburns according to your face type",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"DESCRIPTION_TEXT",
-                    "props":{
-                        "text":"Every face needs different types of sideburns",
-                        "link":"http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
-                    }
-                },
-                {
-                    "type":"FEEDBACK_VIEW_LIKE_COMMENT",
-                    "props":{
-​
-                    }
-                },
-                {
-                    "type":"FOOTER_LIKE_SHARE",
-                    "props":{
-​
-                    }
-                }
-            ]
+            "sequence": 100,
+            "activities": {
+              "clicks": {
+                "count": 111
+              },
+              "likes": {
+                "count": 222,
+                "liked": true
+              },
+              "comments": {
+                "count": 3
+              },
+              "shares": {
+                "count": 4,
+                "shared": false
+              }
+            }
+          },
+          "children": [
+            {
+              "type": "HEADER_CONTEXT_TIMER",
+              "props": {
+                "title": [
+                  {
+                    "text": "Answered by "
+                  },
+                  {
+                    "text": "Sunil Sharma ",
+                    "link": "/tags/grooming"
+                  }
+                ],
+                "timestampInMillis": "1441883006000"
+              }
+            },
+            {
+              "type": "IMAGE_3",
+              "props": {
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ],
+                "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+              }
+            },
+            {
+              "type": "TITLE_TEXT",
+              "props": {
+                "text": "Pick the right sideburns according to your face type",
+                "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+              }
+            },
+            {
+              "type": "DESCRIPTION_TEXT",
+              "props": {
+                "text": "Every face needs different types of sideburns",
+                "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+              }
+            },
+            {
+              "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+              "props": {}
+            },
+            {
+              "type": "FOOTER_LIKE_SHARE",
+              "props": {}
+            }
+          ]
         },
         {
           "type": "TITLE_TEXT",
