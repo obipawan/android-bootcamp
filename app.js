@@ -34,6 +34,11 @@ app.get('/lgp/v1.1/feed/hotlist/android', function*(next){
 	yield next;
 });
 
+app.get('/lgp/v1.2/feed/hotlist/android', function*(next){
+	this.body = JSON.stringify(hotlistv1p1);
+	yield next;
+});
+
 app.post('/lgp/v2/action', function*(next){
 	this.body = 'OK';
 	yield next;
