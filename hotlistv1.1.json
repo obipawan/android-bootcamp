@@ -116,6 +116,14 @@
             "url": "/bebe?sort=popularity",
             "id": "Feed-9",
             "aspectRatio": "490:784"
+          },
+          {
+            "image": {
+              "url": "http://assets.myntassets.com/v1/BEBE_whatsnew1443695452094_a2mtmt.jpg"
+            },
+            "url": "/bebe?sort=popularity",
+            "id": "Feed-9",
+            "aspectRatio": "490:784"
           }
         ]
       }
