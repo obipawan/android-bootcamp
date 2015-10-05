@@ -353,7 +353,7 @@
     "enableFollowAction": true,
     "enableFollowersFollowingOnProfile": true,
     "enableFriendSuggestionOnFollowing": true,
-    "enableFeedPullToRefresh": true,
+    "enableFeedPullToRefresh": false,
     "enableFriendSuggestionOnHome": true,
     "enableGA": true,
     "enableLA": true,
