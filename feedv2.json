@@ -317,6 +317,10 @@
           "shares": {
             "count": 0,
             "shared": false
+          },
+          "poll": {
+            "id": 101,
+            "hasVoted": false
           }
         }
       },
@@ -464,16 +468,16 @@
           "clicks": {
             "count": 6974
           },
-          "likes": {
-            "count": 164,
-            "liked": true
-          },
           "comments": {
             "count": 4
           },
           "shares": {
             "count": 0,
             "shared": false
+          },
+          "poll": {
+            "id": 102,
+            "hasVoted": true
           }
         }
       },
@@ -1183,16 +1187,16 @@
           "clicks": {
             "count": 6974
           },
-          "likes": {
-            "count": 164,
-            "liked": true
-          },
           "comments": {
             "count": 4
           },
           "shares": {
             "count": 0,
             "shared": false
+          },
+          "poll": {
+            "id": 103,
+            "hasVoted": false
           }
         }
       },
@@ -1451,16 +1455,16 @@
           "clicks": {
             "count": 6974
           },
-          "likes": {
-            "count": 164,
-            "liked": true
-          },
           "comments": {
             "count": 4
           },
           "shares": {
             "count": 0,
             "shared": false
+          },
+          "poll": {
+            "id": 104,
+            "hasVoted": false
           }
         }
       },
