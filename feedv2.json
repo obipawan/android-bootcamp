@@ -1,5 +1,5 @@
 {
-  "count": 31,
+  "count": 32,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -437,6 +437,97 @@
         {
           "type": "FOOTER_COMMENT_SHARE",
           "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685101",
+        "meta": {
+          "name": "PRODUCT",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 101,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Items in your Bag has a Price Drop!"
+              }
+            ]
+          }
+        },
+        {
+          "type": "PRODUCT_PRICE_DROP",
+          "props": {
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/345972-roadster-men-grey-casual-shoes.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://images.kooves.com/uploads/products/54287_69a8198cad29b773ddab62856fc73159_image1_default.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              }
+            ]
+          }
         }
       ]
     },
