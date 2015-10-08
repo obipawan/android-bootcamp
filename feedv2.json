@@ -292,7 +292,6 @@
         }
       ]
     },
-
     {
       "type": "COMPONENT_CARD",
       "props": {
@@ -343,6 +342,13 @@
           "type": "DESCRIPTION_TEXT",
           "props": {
             "text": "Pick the right sideburns according to your face type",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "Which kind of topwear do you like? Shirts, round neck tees or Polos. Also specify if there's a weather preference.",
             "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
           }
         },
