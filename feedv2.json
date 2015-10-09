@@ -1,5 +1,5 @@
 {
-  "count": 33,
+  "count": 38,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -201,6 +201,1002 @@
         },
         {
           "type": "FEEDBACK_VIEW_LIKE",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+        "meta": {
+          "name": "QA",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 111
+          },
+          "likes": {
+            "count": 222,
+            "liked": true
+          },
+          "comments": {
+            "count": 3
+          },
+          "shares": {
+            "count": 4,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT_TIMER",
+          "props": {
+            "title": [
+              {
+                "text": "Answered by "
+              },
+              {
+                "text": "Sunil Sharma ",
+                "link": "/tags/grooming"
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "Which kind of topwear do you like? Shirts, round neck tees or Polos. Also specify if there's a weather preference.",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_CAROUSEL",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858349/Nike-Men-Sports-Shoes_1_e2448f6a3e289a46e70639b64cf8c344.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/654422/Nike-Unisex-Red-Classic-Turf-Backpack_1_22f8fac15f04c395b2b9b21b681df2c6.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/858398/Nike-Men-Sports-Shoes_1_79e81a7adb6cb890e53ec8d64a4fc8d8.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/images/style/style_search_image/Nike-Men-Tshirts_d271173afcd217dc13d8593593bd8f7d_images_180_240.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/857337/2015/9/7/11441611518837-Nike-Green--Brown-Camouflage-Print-Jacket-6791441611518308-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "ANSWER_SUMMARY",
+          "props": {
+            "answerData": [
+              {
+                "type": "TEXT",
+                "value": "Black jeans are a classic that will probably never go out of style. Seeing as they complete almost any casual wear, its worth knowing which shoes will go best with your black jeans.\n•Tan shoes- Tan shoes whether leather or suede go excellently with black jeans. Look for shoes with a burnished finish for an extra distinguished look."
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Men Brown Suede Casual Shoes",
+                    "brands_facet": "American Swan1",
+                    "price": "3999",
+                    "discount": "1600",
+                    "discounted_price": "2399",
+                    "discount_label": "40% OFF",
+                    "link": "/797080",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Men Grey Suede Casual Shoes",
+                    "brands_facet": "American Swan2",
+                    "price": "3699",
+                    "discount": "1480",
+                    "discounted_price": "2219",
+                    "discount_label": "40% OFF",
+                    "link": "/797083",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "value": "•Sneakers- Jeans and sneakers is the final word is casual dressing and requires no introduction. Try out high tops for a cool street vibe."
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "TEXT",
+                "value": "•Black shoes- Black jeans with black shoes, why not? But make sure to break up the all black look with a shirt in a deep colour or a well cut blazer in a lighter shade. "
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "value": ""
+              }
+            ]
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+        "meta": {
+          "name": "QA",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 3443
+          },
+          "likes": {
+            "count": 22,
+            "liked": true
+          },
+          "comments": {
+            "count": 3
+          },
+          "shares": {
+            "count": 4,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT_TIMER",
+          "props": {
+            "title": [
+              {
+                "text": "Answered by "
+              },
+              {
+                "text": "Prankur Verma ",
+                "link": "/tags/grooming"
+              }
+            ],
+            "timestampInMillis": "1440883006000"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "How you doing?",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_2",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "ANSWER_SUMMARY",
+          "props": {
+            "answerData": [
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Men Brown Suede Casual Shoes",
+                    "brands_facet": "American Swan1",
+                    "price": "3999",
+                    "discount": "1600",
+                    "discounted_price": "2399",
+                    "discount_label": "40% OFF",
+                    "link": "/797080",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Men Grey Suede Casual Shoes",
+                    "brands_facet": "American Swan2",
+                    "price": "3699",
+                    "discount": "1480",
+                    "discounted_price": "2219",
+                    "discount_label": "40% OFF",
+                    "link": "/797083",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "value": "•Sneakers- Jeans and sneakers is the final word is casual dressing and requires no introduction. Try out high tops for a cool street vibe."
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "TEXT",
+                "value": "•Black shoes- Black jeans with black shoes, why not? But make sure to break up the all black look with a shirt in a deep colour or a well cut blazer in a lighter shade. "
+              },
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "value": ""
+              }
+            ]
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+        "meta": {
+          "name": "QA",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 111
+          },
+          "likes": {
+            "count": 222,
+            "liked": true
+          },
+          "comments": {
+            "count": 3
+          },
+          "shares": {
+            "count": 4,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT_TIMER",
+          "props": {
+            "title": [
+              {
+                "text": "Answered by "
+              },
+              {
+                "text": "Kanhaiya Sharma",
+                "link": "/tags/grooming"
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "Its a useless question, tell me now, is it rhetorical?",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "IMAGE_3",
+          "props": {
+            "images": [
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                "width": 800,
+                "height": 430,
+                "provider": "MYNT_ASSETS"
+              }
+            ],
+            "link": "http://myntra.com/u/Pratibha.Singh-nif/collection/dcc7aa80-545e-11e5-aaf8-15e497738369?utm_source=Share&utm_medium=Android&utm_campaign=Collections"
+          }
+        },
+        {
+          "type": "ANSWER_SUMMARY",
+          "props": {
+            "answerData": [
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/assets/images/938669/2015/9/24/11443086656017-Adidas-Grey-BASE3S-WV-Training-Shorts-951443086655042-1.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              },
+              {
+                "type": "TEXT",
+                "value": ""
+              }
+            ]
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+        "meta": {
+          "name": "QA",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 101
+          },
+          "likes": {
+            "count": 2022,
+            "liked": true
+          },
+          "comments": {
+            "count": 3
+          },
+          "shares": {
+            "count": 4,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT_TIMER",
+          "props": {
+            "title": [
+              {
+                "text": "Asked by "
+              },
+              {
+                "text": "Jindal",
+                "link": "/tags/grooming"
+              }
+            ],
+            "timestampInMillis": "1001883006000"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "What? Seriously?",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "ANSWER_SUMMARY",
+          "props": {
+            "answerData": [
+              {
+                "products": [
+                  {
+                    "stylename": "American Swan Men Brown Suede Casual Shoes",
+                    "brands_facet": "American Swan1",
+                    "price": "3999",
+                    "discount": "1600",
+                    "discounted_price": "2399",
+                    "discount_label": "40% OFF",
+                    "link": "/797080",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Men Grey Suede Casual Shoes",
+                    "brands_facet": "American Swan2",
+                    "price": "3699",
+                    "discount": "1480",
+                    "discounted_price": "2219",
+                    "discount_label": "40% OFF",
+                    "link": "/797083",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/797080/American-Swan-Men-Casual-Shoes_1_691d38a71069cb01d3d976531564dede.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  },
+                  {
+                    "stylename": "American Swan Beige Trousers",
+                    "brands_facet": "American Swan3",
+                    "price": "1599",
+                    "discount": "640",
+                    "discounted_price": "959",
+                    "discount_label": "40% OFF",
+                    "link": "/858669",
+                    "image": {
+                      "src": "http://myntra.myntassets.com/image/style/properties/858669/American-Swan-Beige-Trousers_1_4f122c400cdd26ad16e2622669758027.jpg",
+                      "width": 1080,
+                      "height": 1440,
+                      "provider": "MYNT_ASSETS"
+                    }
+                  }
+                ],
+                "type": "PRODUCTS"
+              },
+              {
+                "type": "PHOTOS",
+                "images": [
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/935606/Adidas-Men-Sports-Shoes_1_7cd1a83b4d8c51a44f66790eacc7cc34.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  },
+                  {
+                    "src": "http://myntra.myntassets.com/image/style/properties/919426/Adidas-Red-MUFC-3S-TRK-Top-Jacket_1_24c17c5da6efbb3b18999f6a02441fc2.jpg",
+                    "width": 800,
+                    "height": 430,
+                    "provider": "MYNT_ASSETS"
+                  }
+                ]
+              }
+            ]
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d1685100",
+        "meta": {
+          "name": "QUESTION",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 111
+          },
+          "likes": {
+            "count": 222,
+            "liked": true
+          },
+          "comments": {
+            "count": 3
+          },
+          "shares": {
+            "count": 4,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT_TIMER",
+          "props": {
+            "title": [
+              {
+                "text": "Answered by "
+              },
+              {
+                "text": "Travencore ",
+                "link": "/tags/grooming"
+              }
+            ],
+            "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "QUESTION_TEXT",
+          "props": {
+            "text": "Which kind of topwear do you like? Shirts, round neck tees or Polos. Also specify if there's a weather preference.",
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
           "props": {}
         },
         {
