@@ -177,9 +177,9 @@
           "props": {
             "link": "/earrings",
             "image": {
-              "width": 800,
-              "height": 430,
-              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "width": 500,
+              "height": 500,
+              "src": "http://38.media.tumblr.com/a123606e52db443841a6bb982d93febe/tumblr_n7a40sXB7P1r2geqjo1_r1_500.gif",
               "provider": "MYNT_ASSETS"
             }
           },
