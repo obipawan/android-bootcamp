@@ -376,7 +376,7 @@
     "enableTokenSystem": true,
     "homePageUrl": "/shop/home?cortex=true",
     "jsBridgeNameSpace": "MyntApp",
-    "lgpEndpoint": "http://developer.myntra.com/lgp",
+    "lgpEndpoint":"http://192.168.12.234:5000/lgp",
     "loyaltyPointsURL": "http://www.myntra.com/my/myntrapoints",
     "madlyticsEndpoint": "http://developer.myntra.com",
     "myOrdersURL": "http://www.myntra.com/my/orders",
