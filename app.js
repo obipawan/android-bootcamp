@@ -49,6 +49,11 @@ app.get('/lgp/v2/feed/object/:id', function*(next){
 	yield next;
 });
 
+app.get('/lgp/me/v2/feed/', function*(next){
+	this.body = JSON.stringify(feedv2);
+	yield next;
+});
+
 app.get('/lgp/v1.1/feed', function*(next){
 		if(this.query.before){
 			if(this.query.before == '1436459407001'){
