@@ -399,26 +399,21 @@
           }
         },
         {
-               "type":"CREATOR_TITLE",
-               "props":{
-                  "image":{
-
-                  },
-                  "action":"published",
-                  "actionSuffix":"by",
-                  "creator":{
-                     "firstname":"Aditya ",
-                     "publicProfileId":"Aditya-ecvv",
-                     "uidx":"9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
-                  },
-                  "categoryPrefix":"in",
-                  "categories":[
-
-                  ],
-                  "timestampInMillis":1443180945000
-               }
-            }
-          ,
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {},
+            "action": "published",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Aditya ",
+              "publicProfileId": "Aditya-ecvv",
+              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
+            },
+            "categoryPrefix": "in",
+            "categories": [],
+            "timestampInMillis": 1443180945000
+          }
+        },
         {
           "type": "FEEDBACK_COMMENT",
           "props": {}
@@ -595,6 +590,28 @@
               }
             ],
             "timestampInMillis": "1441883006000"
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "published",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Aditya ",
+              "publicProfileId": "anuragdadheech1",
+              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT",
+              "link": "/tshirts"
+            },
+            "categoryPrefix": "in",
+            "categories": [],
+            "timestampInMillis": 1443180945000
           }
         },
         {
@@ -1283,25 +1300,21 @@
           }
         },
         {
-               "type":"CREATOR_TITLE",
-               "props":{
-                  "image":{
-
-                  },
-                  "action":"published",
-                  "actionSuffix":"by",
-                  "creator":{
-                     "firstname":"garib admi",
-                     "publicProfileId":"anuragdadheech1",
-                     "uidx":"9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
-                  },
-                  "categoryPrefix":"in",
-                  "categories":[
-
-                  ],
-                  "timestampInMillis":1443180945000
-               }
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {},
+            "action": "published",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "garib admi",
+              "publicProfileId": "anuragdadheech1",
+              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
             },
+            "categoryPrefix": "in",
+            "categories": [],
+            "timestampInMillis": 1443180945000
+          }
+        },
         {
           "type": "FEEDBACK_COMMENT",
           "props": {}
