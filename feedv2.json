@@ -1283,33 +1283,25 @@
           }
         },
         {
-          "type": "CREATOR_TITLE",
-          "props": {
-            "image": {
-              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
-              "width": 800,
-              "height": 430,
-              "provider": "MYNT_ASSETS"
+               "type":"CREATOR_TITLE",
+               "props":{
+                  "image":{
+
+                  },
+                  "action":"published",
+                  "actionSuffix":"by",
+                  "creator":{
+                     "firstname":"garib admi",
+                     "publicProfileId":"anuragdadheech1",
+                     "uidx":"9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
+                  },
+                  "categoryPrefix":"in",
+                  "categories":[
+
+                  ],
+                  "timestampInMillis":1443180945000
+               }
             },
-            "action": "Poll Posted",
-            "actionSuffix": "by",
-            "creator": {
-              "firstname": "Kriti",
-              "lastname": "Sharma",
-              "publicProfileId": "Kriti.Sharma-tde",
-              "uidx": "6a4b65fa.c7d5.437d.9db3.484355fb8e2b1r3NvfV6m4",
-              "link": ""
-            },
-            "categoryPrefix": "in",
-            "categories": [
-              {
-                "name": "Forum",
-                "link": "/forum"
-              }
-            ],
-            "timestampInMillis": "1441883006000"
-          }
-        },
         {
           "type": "FEEDBACK_COMMENT",
           "props": {}
