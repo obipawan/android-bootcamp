@@ -593,28 +593,6 @@
           }
         },
         {
-          "type": "CREATOR_TITLE",
-          "props": {
-            "image": {
-              "src": "http://assets.myntassets.com/v1/assets/banners/2015/8/27/1440682024354-2285-1uga3b3.jpg",
-              "width": 800,
-              "height": 430,
-              "provider": "MYNT_ASSETS"
-            },
-            "action": "published",
-            "actionSuffix": "by",
-            "creator": {
-              "firstname": "Aditya ",
-              "publicProfileId": "anuragdadheech1",
-              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT",
-              "link": "/tshirts"
-            },
-            "categoryPrefix": "in",
-            "categories": [],
-            "timestampInMillis": 1443180945000
-          }
-        },
-        {
           "type": "FEEDBACK_VIEW_LIKE_COMMENT",
           "props": {}
         },
@@ -689,6 +667,28 @@
             "link": "http://www.fashionbeans.com/2015/the-top-trends-in-mens-trainers-right-now/"
           },
           "type": "TITLE_TEXT"
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {
+              "src": "https://lh5.googleusercontent.com/-ZadaXoUTBfs/AAAAAAAAAAI/AAAAAAAAAGA/19US52OmBqc/photo.jpg",
+              "width": 500,
+              "height": 500,
+              "provider": "MYNT_ASSETS"
+            },
+            "action": "published",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Aditya ",
+              "publicProfileId": "anuragdadheech1",
+              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT",
+              "link": "/tshirts"
+            },
+            "categoryPrefix": "in",
+            "categories": [],
+            "timestampInMillis": 1443180945000
+          }
         },
         {
           "props": {
