@@ -118,7 +118,7 @@
         {
           "type": "CAROUSEL_BANNER",
           "props": {
-            "baseColor":"#ff0000",
+            "baseColor":"#00000000",
             "carousel": [
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
