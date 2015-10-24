@@ -106,6 +106,50 @@
       "props": {
         "id": "",
         "meta": {
+          "name": "CAROUSEL_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "CAROUSEL_BANNER",
+          "props": {
+            "carousel": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-women.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/women"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
           "name": "SPLIT_BANNER",
           "app": {
             "id": 2,
