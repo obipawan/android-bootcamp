@@ -1,6 +1,124 @@
 {
-  "count": 31,
+  "count": 32,
   "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168510010",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "New in "
+              },
+              {
+                "text": "Grooming, ",
+                "link": "/tags/grooming"
+              },
+              {
+                "text": "Shaving",
+                "link": "/tags/shaving"
+              }
+            ]
+          }
+        },
+        {
+          "props": {
+            "link": "/earrings",
+            "image": {
+              "width": 800,
+              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "provider": "MYNT_ASSETS"
+            }
+          },
+          "type": "IMAGE_SINGLE"
+        },
+        {
+          "props": {
+            "text": "It’s the moment of the ear cuffs",
+            "link": "/earrings"
+          },
+          "type": "TITLE_TEXT"
+        },
+        {
+          "props": {
+            "text": "Be it on the runway or off it – ear cuffs seem to be the latest fad. Scroll down to check out these b-town divas who have totally rocked the trend!",
+            "link": "/earrings"
+          },
+          "type": "DESCRIPTION_TEXT"
+        },
+        {
+          "type": "QUOTE_TEXT",
+          "props": {
+            "text": "While making an effort to look stunning can make a difference in how people perceive you."
+          }
+        },
+        {
+          "type": "CREATOR_TITLE",
+          "props": {
+            "image": {},
+            "action": "published",
+            "actionSuffix": "by",
+            "creator": {
+              "firstname": "Aditya ",
+              "publicProfileId": "Aditya-ecvv",
+              "uidx": "9c630bbb.5aa5.4a70.9d3e.b99b24077146Oo9TXlkabT"
+            },
+            "categoryPrefix": "in",
+            "categories": [],
+            "timestampInMillis": 1443180945000
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE_COMMENT",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {}
+        }
+      ]
+    },
     {
       "type": "COMPONENT_CARD",
       "props": {
