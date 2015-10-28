@@ -4032,113 +4032,115 @@
         },
         {
           "type": "PRODUCT_PRICE_DROP",
-          "products": [
-            {
-              "stylename": "American Swan Men Brown Suede Casual Shoes",
-              "brands_facet": "American Swan1",
-              "price": "3999",
-              "discount": "1600",
-              "discounted_price": "2399",
-              "discount_label": "40% OFF",
-              "link": "/797080",
-              "image": {
-                "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/345972-roadster-men-grey-casual-shoes.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
+          "props":{
+            "products": [
+              {
+                "stylename": "American Swan Men Brown Suede Casual Shoes",
+                "brands_facet": "American Swan1",
+                "price": "3999",
+                "discount": "1600",
+                "discounted_price": "2399",
+                "discount_label": "40% OFF",
+                "link": "/797080",
+                "image": {
+                  "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/345972-roadster-men-grey-casual-shoes.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Men Grey Suede Casual Shoes",
+                "brands_facet": "American Swan2",
+                "price": "3699",
+                "discount": "1480",
+                "discounted_price": "2219",
+                "discount_label": "40% OFF",
+                "link": "/797083",
+                "image": {
+                  "src": "http://images.kooves.com/uploads/products/54287_69a8198cad29b773ddab62856fc73159_image1_default.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "https://s-media-cache-ak0.pinimg.com/736x/d1/45/c7/d145c7110776767e669f87e3c97707d6.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/350871-nike-men-black-lunarfly-sports-shoes.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/351371-salomon-men-black-speedcross-sports-shoes.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://picture-cdn.wheretoget.it/9j7dre-i.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
+              },
+              {
+                "stylename": "American Swan Beige Trousers",
+                "brands_facet": "American Swan3",
+                "price": "1599",
+                "discount": "640",
+                "discounted_price": "959",
+                "discount_label": "40% OFF",
+                "link": "/858669",
+                "image": {
+                  "src": "http://img.tennis-warehouse.com/new_product/YM307YB-1.jpg",
+                  "width": 300,
+                  "height": 400,
+                  "provider": "MYNT_ASSETS"
+                }
               }
-            },
-            {
-              "stylename": "American Swan Men Grey Suede Casual Shoes",
-              "brands_facet": "American Swan2",
-              "price": "3699",
-              "discount": "1480",
-              "discounted_price": "2219",
-              "discount_label": "40% OFF",
-              "link": "/797083",
-              "image": {
-                "src": "http://images.kooves.com/uploads/products/54287_69a8198cad29b773ddab62856fc73159_image1_default.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            },
-            {
-              "stylename": "American Swan Beige Trousers",
-              "brands_facet": "American Swan3",
-              "price": "1599",
-              "discount": "640",
-              "discounted_price": "959",
-              "discount_label": "40% OFF",
-              "link": "/858669",
-              "image": {
-                "src": "https://s-media-cache-ak0.pinimg.com/736x/d1/45/c7/d145c7110776767e669f87e3c97707d6.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            },
-            {
-              "stylename": "American Swan Beige Trousers",
-              "brands_facet": "American Swan3",
-              "price": "1599",
-              "discount": "640",
-              "discounted_price": "959",
-              "discount_label": "40% OFF",
-              "link": "/858669",
-              "image": {
-                "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/350871-nike-men-black-lunarfly-sports-shoes.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            },
-            {
-              "stylename": "American Swan Beige Trousers",
-              "brands_facet": "American Swan3",
-              "price": "1599",
-              "discount": "640",
-              "discounted_price": "959",
-              "discount_label": "40% OFF",
-              "link": "/858669",
-              "image": {
-                "src": "http://ak0.scstatic.net/1/cdn2-cont4.sweetcouch.com/351371-salomon-men-black-speedcross-sports-shoes.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            },
-            {
-              "stylename": "American Swan Beige Trousers",
-              "brands_facet": "American Swan3",
-              "price": "1599",
-              "discount": "640",
-              "discounted_price": "959",
-              "discount_label": "40% OFF",
-              "link": "/858669",
-              "image": {
-                "src": "http://picture-cdn.wheretoget.it/9j7dre-i.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            },
-            {
-              "stylename": "American Swan Beige Trousers",
-              "brands_facet": "American Swan3",
-              "price": "1599",
-              "discount": "640",
-              "discounted_price": "959",
-              "discount_label": "40% OFF",
-              "link": "/858669",
-              "image": {
-                "src": "http://img.tennis-warehouse.com/new_product/YM307YB-1.jpg",
-                "width": 300,
-                "height": 400,
-                "provider": "MYNT_ASSETS"
-              }
-            }
-          ]
+            ]  
+          }
         },
         {
           "type": "DIY_RACK",
