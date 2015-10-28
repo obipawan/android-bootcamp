@@ -161,27 +161,11 @@
       },
       "children": [
         {
-          "type": "COMPONENT_CARD",
+          "type": "CAROUSEL_BANNER",
           "props": {
-            "id": "",
-            "meta": {
-              "name": "CAROUSEL_BANNER",
-              "app": {
-                "id": 2,
-                "name": "CoMS"
-              }
-            },
-            "sequence": 4
-          },
-          "children": [
-            {
-              "type": "CAROUSEL_BANNER",
-              "props": {
-                "baseColor": "#00000000",
-                "carousel": []
-              }
-            }
-          ]
+            "baseColor": "#00000000",
+            "carousel": []
+          }
         }
       ]
     },
