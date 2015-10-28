@@ -1,5 +1,5 @@
 {
-  "count": 4,
+  "count": 7,
   "cards": [
     {
       "type": "COMPONENT_CARD",
@@ -118,7 +118,7 @@
         {
           "type": "CAROUSEL_BANNER",
           "props": {
-            "baseColor":"#00000000",
+            "baseColor": "#00000000",
             "carousel": [
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
@@ -143,6 +143,45 @@
               }
             ]
           }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "CAROUSEL_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "COMPONENT_CARD",
+          "props": {
+            "id": "",
+            "meta": {
+              "name": "CAROUSEL_BANNER",
+              "app": {
+                "id": 2,
+                "name": "CoMS"
+              }
+            },
+            "sequence": 4
+          },
+          "children": [
+            {
+              "type": "CAROUSEL_BANNER",
+              "props": {
+                "baseColor": "#00000000",
+                "carousel": []
+              }
+            }
+          ]
         }
       ]
     },
