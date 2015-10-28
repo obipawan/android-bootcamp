@@ -4013,7 +4013,7 @@
           }
         },
         {
-          "type": "PRODUCT_BUY_NOW",
+          "type": "PRODUCT_OUT_OF_STOCK",
           "props": {
             "stylename": "American Swan Men Brown Suede Casual Shoes",
             "brands_facet": "American Swan1",
