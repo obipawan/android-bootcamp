@@ -3032,8 +3032,9 @@
           }
         },
         {
-          "type": "CAPTIONED_IMAGE_CENTER",
+          "type": "CAPTIONED_IMAGE",
           "props": {
+            "variant": "center",
             "image": {
               "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438324044376-file",
               "width": 1140,
@@ -4032,7 +4033,7 @@
         },
         {
           "type": "PRODUCT_PRICE_DROP",
-          "props":{
+          "props": {
             "products": [
               {
                 "stylename": "American Swan Men Brown Suede Casual Shoes",
@@ -4139,7 +4140,7 @@
                   "provider": "MYNT_ASSETS"
                 }
               }
-            ]  
+            ]
           }
         },
         {
