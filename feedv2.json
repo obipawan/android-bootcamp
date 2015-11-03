@@ -205,6 +205,8 @@
             "image": {},
             "action": "published",
             "actionSuffix": "by",
+            "type": "Collection",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Aditya ",
               "publicProfileId": "Aditya-ecvv",
@@ -324,6 +326,8 @@
             "image": {},
             "action": "published",
             "actionSuffix": "by",
+            "type": "Answer",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Aditya ",
               "publicProfileId": "Aditya-ecvv",
@@ -747,6 +751,8 @@
             "image": {},
             "action": "published",
             "actionSuffix": "by",
+            "type": "Look",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Aditya ",
               "publicProfileId": "Aditya-ecvv",
@@ -2048,6 +2054,8 @@
             },
             "action": "Created",
             "actionSuffix": "by",
+            "type": "Question",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Kriti",
               "lastname": "Sharma",
@@ -2134,6 +2142,8 @@
             },
             "action": "Created",
             "actionSuffix": "by",
+            "type": "Collection",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Kriti",
               "lastname": "Sharma",
@@ -2555,6 +2565,8 @@
             },
             "action": "Created",
             "actionSuffix": "by",
+            "type": "Post",
+            "typeSuffix": "by",
             "creator": {
               "firstname": "Kriti",
               "lastname": "Sharma",
