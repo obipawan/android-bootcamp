@@ -188,9 +188,9 @@
           "props": {
             "splits": [
               {
-                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
-                "width": 327,
-                "height": 327,
+                "src": "http://jointhebreed.com/wp/wp-content/uploads/2014/01/5659129000_625a7cf683_o1.gif",
+                "width": 615,
+                "height": 369,
                 "provider": "MYNT_ASSETS",
                 "link": "/shop/men"
               },
