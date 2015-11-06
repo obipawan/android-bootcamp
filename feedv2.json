@@ -2650,6 +2650,54 @@
           }
         },
         {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
+              "width": 100,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
+              "width": 800,
+              "height": 830,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323978281-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/02/the-science-behind-good-looks/30562"
+          }
+        },
+        {
           "type": "CREATOR_TITLE",
           "props": {
             "image": {
