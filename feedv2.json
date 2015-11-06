@@ -2590,6 +2590,66 @@
           }
         },
         {
+          "type": "SNIPPET",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 800,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130",
+            "title": "Pick the right sideburns according to your face type",
+            "description": "Every face needs different types of sideburns .We need to cautipus in choosing products accroding to the face type",
+            "site": "myntra.com"
+          }
+        },
+        {
+          "type": "SNIPPET",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 800,
+              "height": 200,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130",
+            "title": "Pick the right sideburns according to your face type",
+            "description": "Every face needs different types of sideburns .We need to cautipus in choosing products accroding to the face type",
+            "site": "myntra.com"
+          }
+        },
+        {
+          "type": "SNIPPET",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 100,
+              "height": 430,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130",
+            "title": "Pick the right sideburns according to your face type",
+            "description": "Every face needs different types of sideburns .We need to cautipus in choosing products accroding to the face type",
+            "site": "myntra.com"
+          }
+        },
+        {
+          "type": "SNIPPET",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/assets/images/2015/7/31/11438323845730-file",
+              "width": 100,
+              "height": 100,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.myntra.com/lookgood/2015/06/pick-the-right-sideburns-according-to-your-face-type/51130",
+            "title": "Pick the right sideburns according to your face type",
+            "description": "Every face needs different types of sideburns .We need to cautipus in choosing products accroding to the face type",
+            "site": "myntra.com"
+          }
+        },
+        {
           "type": "CREATOR_TITLE",
           "props": {
             "image": {
