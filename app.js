@@ -14,6 +14,7 @@ var feedbefore = require('./feedv1.1before.json');
 var feedafter = require('./feedv1.1after.json');
 var feedzero = require('./feedempty.json');
 var androidConfig = require('./androidconfig.json');
+var myxhotlist = require('./myxhotlist.json');
 var port = process.env.PORT || config.koa.port || 3000;
 
 app.use(router(app));
@@ -81,6 +82,10 @@ app.get('/lgp/v1.1/feed', function*(next){
 app.get('/config/android', function*(next){
 	this.body = JSON.stringify(androidConfig);
 	yield next;
+});
+
+app.get('/layouts/android/feed', function*(next){
+	this.body = JSON.stringify(myxhotlist);
 });
 
 function startKoa(){
