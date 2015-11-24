@@ -88,6 +88,24 @@
           "type": "DESCRIPTION_TEXT"
         },
         {
+          "type": "MAKEOVER",
+          "props": {
+            "link": "/earrings",
+            "first_image": {
+              "width": 800,
+              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "second_image": {
+              "width": 800,
+              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "provider": "MYNT_ASSETS"
+            }
+          }
+        },
+        {
           "type": "PRODUCT_RACK",
           "props": {
             "products": [
@@ -299,6 +317,24 @@
             }
           },
           "type": "IMAGE_SINGLE"
+        },
+        {
+          "type": "MAKEOVER",
+          "props": {
+            "link": "/earrings",
+            "first_image": {
+              "width": 800,
+              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "second_image": {
+              "width": 800,
+              "height": 430,
+              "src": "http://assets.myntassets.com/assets/images/2015/9/9/11441771702948-1441771702771earcuffs.jpg",
+              "provider": "MYNT_ASSETS"
+            }
+          }
         },
         {
           "props": {
