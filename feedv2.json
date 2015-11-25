@@ -1,6 +1,626 @@
 {
-  "count": 33,
+  "count": 44,
   "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:0522a632-1aed-4807-9ea7-5ce50dec87df",
+        "sequence": 0,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": "/winterwear-offer",
+          "og:image:url": "http://assets.myntassets.com/v1/winter-andriod1448370696622_xn6q72.jpg",
+          "og:image:width": 1,
+          "og:image:height": 1,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:0522a632-1aed-4807-9ea7-5ce50dec87df",
+            "og:image:url": "http://assets.myntassets.com/v1/winter-andriod1448370696622_xn6q72.jpg",
+            "og:image:width": 1,
+            "og:image:height": 1
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "10652"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 1,
+              "height": 1,
+              "src": "http://assets.myntassets.com/v1/winter-andriod1448370696622_xn6q72.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/winterwear-offer"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:c50175dd-13a8-4322-9768-394bbe4eecb8",
+        "sequence": 2291,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": "/roadster-heavyduty",
+          "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/25/11448436489528-Roadster-AD-SQ-20th-Nov-15-2--4-.jpg",
+          "og:image:width": 1,
+          "og:image:height": 1,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:c50175dd-13a8-4322-9768-394bbe4eecb8",
+            "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/25/11448436489528-Roadster-AD-SQ-20th-Nov-15-2--4-.jpg",
+            "og:image:width": 1,
+            "og:image:height": 1
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "146"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 880,
+              "height": 431,
+              "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/roadster-heavyduty"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:123a7748-110d-4c89-9cd9-bec59c88482d",
+        "sequence": 2187,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": "/hrx-casual-home-24Nov",
+          "og:image:url": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+          "og:image:width": 1,
+          "og:image:height": 1,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:123a7748-110d-4c89-9cd9-bec59c88482d",
+            "og:image:url": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+            "og:image:width": 1,
+            "og:image:height": 1
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "775"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 1,
+              "height": 1,
+              "src": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/hrx-casual-home-24Nov"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:7b306586-e425-4f90-ab65-14cd9d6c488f",
+        "sequence": 2142,
+        "meta": {
+          "og:name": "split-banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": null,
+          "og:image:url": "http://assets.myntassets.com/v1/BrandDay_whatsnew_1_1447928312444_qneu5d.jpg,http://assets.myntassets.com/v1/Jacqueline_whatsnew_1_1447927861179_nzwz3u.jpg",
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:7b306586-e425-4f90-ab65-14cd9d6c488f",
+            "og:image:url": "http://assets.myntassets.com/v1/BrandDay_whatsnew_1_1447928312444_qneu5d.jpg,http://assets.myntassets.com/v1/Jacqueline_whatsnew_1_1447927861179_nzwz3u.jpg"
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "831"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "width": 5,
+                "height": 8,
+                "src": "http://assets.myntassets.com/v1/BrandDay_whatsnew_1_1447928312444_qneu5d.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:2965c070-cd82-45f4-a3ef-dc276da54b84",
+                "link": "http://www.myntra.com/u/PUMA?utm_source=Shareundefined=Androidundefinedgn=Profile"
+              },
+              {
+                "width": 5,
+                "height": 8,
+                "src": "http://assets.myntassets.com/v1/Jacqueline_whatsnew_1_1447927861179_nzwz3u.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:4098db8e-5ade-440c-b0c2-32eba8242d34",
+                "link": "http://www.myntra.com/u/JacquelineFernandez?utm_source=Shareundefined=Androidundefinedgn=Profile"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:19636fb4-96a4-4f4a-a653-09ee62f261b1",
+        "sequence": 2083,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": "/shop/aay-winter-collection",
+          "og:image:url": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+          "og:image:width": 1,
+          "og:image:height": 1,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:19636fb4-96a4-4f4a-a653-09ee62f261b1",
+            "og:image:url": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+            "og:image:width": 1,
+            "og:image:height": 1
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "2322"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 1,
+              "height": 1,
+              "src": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/shop/aay-winter-collection"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:7a37f3dc-8c63-4ec3-a041-8d34f780b99a",
+        "sequence": 2000,
+        "meta": {
+          "og:name": "split-banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": null,
+          "og:image:url": "http://assets.myntassets.com/v1/Clovia_Android_WN1447745212254_irvdxe.jpg,http://assets.myntassets.com/v1/pluiehomepagebanner1448345473240_rrhols.jpg",
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:7a37f3dc-8c63-4ec3-a041-8d34f780b99a",
+            "og:image:url": "http://assets.myntassets.com/v1/Clovia_Android_WN1447745212254_irvdxe.jpg,http://assets.myntassets.com/v1/pluiehomepagebanner1448345473240_rrhols.jpg"
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "158"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "width": 5,
+                "height": 8,
+                "src": "http://assets.myntassets.com/v1/Clovia_Android_WN1447745212254_irvdxe.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:2cac04ab-fffc-4f10-80c0-1bb19c78dcaa",
+                "link": "/clovia"
+              },
+              {
+                "width": 5,
+                "height": 8,
+                "src": "http://assets.myntassets.com/v1/pluiehomepagebanner1448345473240_rrhols.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:a49d7d33-31f5-405e-9644-1cc5f8a7fbea",
+                "link": "/pluie"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:b0d1715a-7e49-4718-ab8d-b52716520774",
+        "sequence": 1900,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": null,
+          "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+          "og:image:width": 1440,
+          "og:image:height": 353,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:b0d1715a-7e49-4718-ab8d-b52716520774",
+            "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+            "og:image:width": 1440,
+            "og:image:height": 353
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 1440,
+              "height": 353,
+              "src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": null
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:55484a49-5dde-4c9d-a564-bae633a62b46",
+        "sequence": 1800,
+        "meta": {
+          "og:name": "split-banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": null,
+          "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090089-Hot-finds-3.jpg,http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090123-Hot-finds-2.jpg",
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:55484a49-5dde-4c9d-a564-bae633a62b46",
+            "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090089-Hot-finds-3.jpg,http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090123-Hot-finds-2.jpg"
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "267"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "width": 180,
+                "height": 259,
+                "src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090123-Hot-finds-2.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:851b37d3-927b-44a2-90c0-511342ac0fd5",
+                "link": "/winterwear-women-solid-colored-jacket-coat"
+              },
+              {
+                "width": 180,
+                "height": 259,
+                "src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090089-Hot-finds-3.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:f5e41495-e4c5-4b7d-99a6-d518d1fde1e8",
+                "link": "/winterwear-women-v-neck-sweaters"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:6998934f-2c83-448f-beb1-8dacc6f23b40",
+        "sequence": 1700,
+        "meta": {
+          "og:name": "split-banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": null,
+          "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090021-Hot-finds-5.jpg,http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090051-Hot-finds-4.jpg",
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:6998934f-2c83-448f-beb1-8dacc6f23b40",
+            "og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090021-Hot-finds-5.jpg,http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090051-Hot-finds-4.jpg"
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "267"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "width": 720,
+                "height": 1033,
+                "src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090051-Hot-finds-4.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:cef97ef5-22ad-4dd4-95b7-d99407062184",
+                "link": "/winterwear-women-cute-scarf"
+              },
+              {
+                "width": 720,
+                "height": 1033,
+                "src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090021-Hot-finds-5.jpg",
+                "provider": "MYNT_ASSETS",
+                "id": "2:87a8b23f-bdcb-41a1-b9d5-81c0d331b96f",
+                "link": "/women-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:ddb3bb2c-980a-41fa-a3bf-0000d3b87773",
+        "sequence": 1600,
+        "meta": {
+          "og:name": "banner",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "sale"
+          ],
+          "og:title": "",
+          "og:url": "/winterwear-sports",
+          "og:image:url": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+          "og:image:width": 4,
+          "og:image:height": 3,
+          "share": {
+            "og:title": "",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:ddb3bb2c-980a-41fa-a3bf-0000d3b87773",
+            "og:image:url": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+            "og:image:width": 4,
+            "og:image:height": 3
+          }
+        },
+        "activities": {
+          "like": {
+            "liked": false
+          },
+          "click": {
+            "count": "258"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "width": 4,
+              "height": 3,
+              "src": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/winterwear-sports"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:66bf0a03-22f5-4fe0-8d2b-0155ef5854ea",
+        "sequence": 1266,
+        "meta": {
+          "og:name": "article",
+          "og:app": {
+            "id": 2
+          },
+          "og:tags": [
+            "Style Help",
+            "sneakers",
+            "men",
+            "Trends",
+            "golden-story"
+          ],
+          "og:title": "Sneakers to buy this season ",
+          "og:url": "http://www.brostrick.com/mens-fashion/best-mens-sneakers/",
+          "og:image:url": "http://assets.myntassets.com/assets/images/2015/11/5/11446721877666-2016-mens-sneakers-and-tennis-running-shoes.jpg",
+          "og:image:width": 247,
+          "og:image:height": 180,
+          "share": {
+            "og:title": "Sneakers to buy this season ",
+            "og:url": "http://www.myntra.com/mailers/feedcard/2:66bf0a03-22f5-4fe0-8d2b-0155ef5854ea",
+            "og:image:url": "http://assets.myntassets.com/assets/images/2015/11/5/11446721877666-2016-mens-sneakers-and-tennis-running-shoes.jpg",
+            "og:image:width": 247,
+            "og:image:height": 180
+          }
+        },
+        "activities": {
+          "like": {
+            "count": "827",
+            "liked": false
+          },
+          "click": {
+            "count": "170102"
+          },
+          "share": {
+            "count": "208"
+          },
+          "view": {
+            "count": "8027"
+          }
+        }
+      },
+      "children": [
+        {
+          "type": "HEADER_CONTEXT",
+          "props": {
+            "title": [
+              {
+                "text": "Trending in style help"
+              }
+            ]
+          }
+        },
+        {
+          "type": "IMAGE_SINGLE",
+          "props": {
+            "image": {
+              "width": 247,
+              "height": 180,
+              "src": "http://assets.myntassets.com/assets/images/2015/11/5/11446721877666-2016-mens-sneakers-and-tennis-running-shoes.jpg",
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "http://www.brostrick.com/mens-fashion/best-mens-sneakers/"
+          }
+        },
+        {
+          "type": "TITLE_TEXT",
+          "props": {
+            "text": "Sneakers to buy this season ",
+            "link": "http://www.brostrick.com/mens-fashion/best-mens-sneakers/"
+          }
+        },
+        {
+          "type": "DESCRIPTION_TEXT",
+          "props": {
+            "text": "From chucks to slip-on sneakers, these comfortable shoes come in many avatars. Read on to know more. - Brostrick",
+            "link": "http://www.brostrick.com/mens-fashion/best-mens-sneakers/"
+          }
+        },
+        {
+          "type": "FEEDBACK_VIEW_LIKE",
+          "props": {}
+        },
+        {
+          "type": "FOOTER_LIKE_SHARE",
+          "props": {
+            "liked": false
+          }
+        }
+      ]
+    },
     {
       "type": "COMPONENT_CARD",
       "props": {
