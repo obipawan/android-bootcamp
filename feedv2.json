@@ -248,9 +248,9 @@
           "type": "BANNER",
           "props": {
             "image": {
-              "width": 1,
-              "height": 1,
-              "src": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+              "width": 880,
+              "height": 431,
+              "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
               "provider": "MYNT_ASSETS"
             },
             "link": "/shop/aay-winter-collection"
