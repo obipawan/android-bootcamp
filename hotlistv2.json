@@ -47,7 +47,7 @@
           "type": "BANNER",
           "props": {
             "image": {
-              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
+              "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
               "width": 980,
               "height": 980,
               "provider": "MYNT_ASSETS"
@@ -128,7 +128,7 @@
                 "link": "/shop/men"
               },
               {
-                "src": "http://jointhebreed.com/wp/wp-content/uploads/2014/01/5659129000_625a7cf683_o1.gif",
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
                 "width": 615,
                 "height": 369,
                 "provider": "MYNT_ASSETS",
@@ -188,7 +188,7 @@
           "props": {
             "splits": [
               {
-                "src": "http://jointhebreed.com/wp/wp-content/uploads/2014/01/5659129000_625a7cf683_o1.gif",
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
                 "width": 615,
                 "height": 369,
                 "provider": "MYNT_ASSETS",
@@ -225,7 +225,7 @@
           "props": {
             "splits": [
               {
-                "src": "http://jointhebreed.com/wp/wp-content/uploads/2014/01/5659129000_625a7cf683_o1.gif",
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
                 "width": 615,
                 "height": 369,
                 "provider": "MYNT_ASSETS",
