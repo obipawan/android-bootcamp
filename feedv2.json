@@ -1,6 +1,1025 @@
 {
-  "count": 44,
+  "count": 54,
   "cards": [
+    {
+"type": "COMPONENT_CARD",
+"props": {
+"sequence": 0,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/shop/men:/shop/women:/shop/kids",
+"share": {
+"og:title": "fpr-c::/shop/men:/shop/women:/shop/kids",
+"og:url": "http://www.myntra.com/mailers/feedcard/undefined"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 327,
+"height": 168,
+"src": "http://assets.myntassets.com/v1/1men-split1445324811873_cy69i1.jpg",
+"provider": "MYNT_ASSETS",
+"id": "Feed-1a",
+"link": "/shop/men"
+},
+{
+"width": 326,
+"height": 168,
+"src": "http://assets.myntassets.com/v1/2women-split1445324821629_sj36bx.jpg",
+"provider": "MYNT_ASSETS",
+"id": "Feed-1b",
+"link": "/shop/women"
+},
+{
+"width": 327,
+"height": 168,
+"src": "http://assets.myntassets.com/v1/3kids-split1445324829292_o3dyug.jpg",
+"provider": "MYNT_ASSETS",
+"id": "Feed-1c",
+"link": "/shop/kids"
+}
+],
+"isNavBar": true
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "feed--",
+"sequence": 1,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/winterwear-offer",
+"og:url": "/winterwear-offer",
+"og:image:url": "http://assets.myntassets.com/v1/winter-andriod1448370696622_xn6q72.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440,
+"share": {
+"og:title": "fpr-c:/winterwear-offer",
+"og:url": "http://www.myntra.com/mailers/feedcard/feed--",
+"og:image:url": "http://assets.myntassets.com/v1/winter-andriod1448370696622_xn6q72.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+  "image": {
+    "width": 980,
+    "height": 480,
+    "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+    "provider": "MYNT_ASSETS"
+  },
+"link": "/women-winterwear"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "Feed--1",
+"sequence": 2,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/roadster-heavyduty",
+"og:url": "/roadster-heavyduty",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/25/11448436489528-Roadster-AD-SQ-20th-Nov-15-2--4-.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440,
+"share": {
+"og:title": "fpr-c:/roadster-heavyduty",
+"og:url": "http://www.myntra.com/mailers/feedcard/Feed--1",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/25/11448436489528-Roadster-AD-SQ-20th-Nov-15-2--4-.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1440,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/25/11448436489528-Roadster-AD-SQ-20th-Nov-15-2--4-.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/roadster-heavyduty"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "myntra-fashion-festival-0749",
+"sequence": 3,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/hrx-casual-home-24Nov",
+"og:url": "/hrx-casual-home-24Nov",
+"og:image:url": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440,
+"share": {
+"og:title": "fpr-c:/hrx-casual-home-24Nov",
+"og:url": "http://www.myntra.com/mailers/feedcard/myntra-fashion-festival-0749",
+"og:image:url": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1440,
+"src": "http://assets.myntassets.com/v1/HRX-Android_SB-24thNov_1_1448429282658_eacivc.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/hrx-casual-home-24Nov"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "Feed--1",
+"sequence": 4,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/shop/aay-winter-collection",
+"og:url": "/shop/aay-winter-collection",
+"og:image:url": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440,
+"share": {
+"og:title": "fpr-c:/shop/aay-winter-collection",
+"og:url": "http://www.myntra.com/mailers/feedcard/Feed--1",
+"og:image:url": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+"og:image:width": 1440,
+"og:image:height": 1440
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1440,
+"src": "http://assets.myntassets.com/v1/AAY_Android_SB1448352298938_n7gt45.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/shop/aay-winter-collection"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 5,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/clovia:/pluie",
+"share": {
+"og:title": "fpr-c::/clovia:/pluie",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 720,
+"height": 1152,
+"src": "http://assets.myntassets.com/v1/Clovia_Android_WN1447745212254_irvdxe.jpg",
+"provider": "MYNT_ASSETS",
+"id": "Feed-3a",
+"link": "/clovia"
+},
+{
+"width": 720,
+"height": 1152,
+"src": "http://assets.myntassets.com/v1/pluiehomepagebanner1448345473240_rrhols.jpg",
+"provider": "MYNT_ASSETS",
+"id": "Feed-3b",
+"link": "/pluie"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "winter-hot-finds-1",
+"sequence": 6,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:",
+"og:url": "",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+"og:image:width": 1440,
+"og:image:height": 353,
+"share": {
+"og:title": "fpr-c:",
+"og:url": "http://www.myntra.com/mailers/feedcard/winter-hot-finds-1",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+"og:image:width": 1440,
+"og:image:height": 353
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 353,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090159-Hot-finds-1.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": ""
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 7,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/winterwear-women-solid-colored-jacket-coat:/winterwear-women-v-neck-sweaters",
+"share": {
+"og:title": "fpr-c::/winterwear-women-solid-colored-jacket-coat:/winterwear-women-v-neck-sweaters",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 720,
+"height": 1036,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090123-Hot-finds-2.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-2",
+"link": "/winterwear-women-solid-colored-jacket-coat"
+},
+{
+"width": 720,
+"height": 1036,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090089-Hot-finds-3.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-3",
+"link": "/winterwear-women-v-neck-sweaters"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 8,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/winterwear-women-cute-scarf:/women-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket",
+"share": {
+"og:title": "fpr-c::/winterwear-women-cute-scarf:/women-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 720,
+"height": 1033,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090051-Hot-finds-4.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-4",
+"link": "/winterwear-women-cute-scarf"
+},
+{
+"width": 720,
+"height": 1033,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275090021-Hot-finds-5.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-5",
+"link": "/women-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_5a_promotion-",
+"sequence": 9,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/winterwear-sports",
+"og:url": "/winterwear-sports",
+"og:image:url": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/winterwear-sports",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_5a_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/Android1448348251141_g8aubt.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/winterwear-sports"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_6a_promotion-",
+"sequence": 10,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/jack-and-jones?sort=new",
+"og:url": "/jack-and-jones?sort=new",
+"og:image:url": "http://assets.myntassets.com/v1/jack-HB1447757016224_qnihqw.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/jack-and-jones?sort=new",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_6a_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/jack-HB1447757016224_qnihqw.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/jack-HB1447757016224_qnihqw.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/jack-and-jones?sort=new"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_6_promotion-",
+"sequence": 11,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/femella",
+"og:url": "/femella",
+"og:image:url": "http://assets.myntassets.com/v1/Femella_Android_HP_new1448353043962_mvp0ia.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/femella",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_6_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/Femella_Android_HP_new1448353043962_mvp0ia.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/Femella_Android_HP_new1448353043962_mvp0ia.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/femella"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_7a_promotion-",
+"sequence": 12,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/men-apparel?f=brands%3AFlying%2520Machine&sort=new",
+"og:url": "/men-apparel?f=brands%3AFlying%2520Machine&sort=new",
+"og:image:url": "http://assets.myntassets.com/v1/FM_Android_HP1448369419984_hkazcj.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/men-apparel?f=brands%3AFlying%2520Machine&sort=new",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_7a_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/FM_Android_HP1448369419984_hkazcj.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/FM_Android_HP1448369419984_hkazcj.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/men-apparel?f=brands%3AFlying%2520Machine&sort=new"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_8_promotion-",
+"sequence": 13,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/vishudh?sort=popularity",
+"og:url": "/vishudh?sort=popularity",
+"og:image:url": "http://assets.myntassets.com/v1/Android_HP1448283192124_cskft0.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/vishudh?sort=popularity",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_8_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/Android_HP1448283192124_cskft0.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/Android_HP1448283192124_cskft0.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/vishudh?sort=popularity"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "Feed--",
+"sequence": 14,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/breakbounce?f=categories%3AJeans%2CTrousers",
+"og:url": "/breakbounce?f=categories%3AJeans%2CTrousers",
+"og:image:url": "http://assets.myntassets.com/v1/Breakbounce_Android_MP_WP1448369715261_vxicpr.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/breakbounce?f=categories%3AJeans%2CTrousers",
+"og:url": "http://www.myntra.com/mailers/feedcard/Feed--",
+"og:image:url": "http://assets.myntassets.com/v1/Breakbounce_Android_MP_WP1448369715261_vxicpr.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/Breakbounce_Android_MP_WP1448369715261_vxicpr.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/breakbounce?f=categories%3AJeans%2CTrousers"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "hpb_9_promotion-",
+"sequence": 15,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/cole-haan",
+"og:url": "/cole-haan",
+"og:image:url": "http://assets.myntassets.com/v1/Cole_Android_HP1448272483631_aiqqxk.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/cole-haan",
+"og:url": "http://www.myntra.com/mailers/feedcard/hpb_9_promotion-",
+"og:image:url": "http://assets.myntassets.com/v1/Cole_Android_HP1448272483631_aiqqxk.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/v1/Cole_Android_HP1448272483631_aiqqxk.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/cole-haan"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "feed-29",
+"sequence": 16,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/forum",
+"og:url": "/forum",
+"og:image:url": "http://assets.myntassets.com/v1/styleForum21448334704052_uvcedc.jpg",
+"og:image:width": 980,
+"og:image:height": 480,
+"share": {
+"og:title": "fpr-c:/forum",
+"og:url": "http://www.myntra.com/mailers/feedcard/feed-29",
+"og:image:url": "http://assets.myntassets.com/v1/styleForum21448334704052_uvcedc.jpg",
+"og:image:width": 980,
+"og:image:height": 480
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 980,
+"height": 480,
+"src": "http://assets.myntassets.com/v1/styleForum21448334704052_uvcedc.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/forum"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "sarge-store-heritage",
+"sequence": 17,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/shop/saree-store-heritage",
+"og:url": "/shop/saree-store-heritage",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490706-Saree-Store_HP_android.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/shop/saree-store-heritage",
+"og:url": "http://www.myntra.com/mailers/feedcard/sarge-store-heritage",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490706-Saree-Store_HP_android.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490706-Saree-Store_HP_android.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/shop/saree-store-heritage"
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "winter-hot-finds-6",
+"sequence": 18,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:",
+"og:url": "",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089989-Hot-finds-6.jpg",
+"og:image:width": 1440,
+"og:image:height": 353,
+"share": {
+"og:title": "fpr-c:",
+"og:url": "http://www.myntra.com/mailers/feedcard/winter-hot-finds-6",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089989-Hot-finds-6.jpg",
+"og:image:width": 1440,
+"og:image:height": 353
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 353,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089989-Hot-finds-6.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": ""
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 19,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/men-henley?sort=new:/sweatshirt?f=Hood_article_attr%3Adetachable%2520hood%2Chas%2520hood%3A%3Agender%3Amen%2Cmen%2520women%2Cmen%2520women&sort=new",
+"share": {
+"og:title": "fpr-c::/men-henley?sort=new:/sweatshirt?f=Hood_article_attr%3Adetachable%2520hood%2Chas%2520hood%3A%3Agender%3Amen%2Cmen%2520women%2Cmen%2520women&sort=new",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 720,
+"height": 1033,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089956-Hot-finds-7.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-7",
+"link": "/men-henley?sort=new"
+},
+{
+"width": 720,
+"height": 1033,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089913-Hot-finds-8.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-8",
+"link": "/sweatshirt?f=Hood_article_attr%3Adetachable%2520hood%2Chas%2520hood%3A%3Agender%3Amen%2Cmen%2520women%2Cmen%2520women&sort=new"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 20,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/men-sweater:/men-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket",
+"share": {
+"og:title": "fpr-c::/men-sweater:/men-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 720,
+"height": 1072,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089886-Hot-finds-9.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-9",
+"link": "/men-sweater"
+},
+{
+"width": 720,
+"height": 1072,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/23/11448275089855-Hot-finds-10.jpg",
+"provider": "MYNT_ASSETS",
+"id": "winter-hot-finds-10",
+"link": "/men-jackets?f=Jacket_Type_article_attr%3Apuffer%2520jacket%2Cquilted%2520jacket"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 21,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/shop/t-shirt-college:/shop/denim-men",
+"share": {
+"og:title": "fpr-c::/shop/t-shirt-college:/shop/denim-men",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_tshirt1445968458427_eghja8.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-tshirt",
+"link": "/shop/t-shirt-college"
+},
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_denim1445968408660_fpy6pn.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-denim",
+"link": "/shop/denim-men"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 22,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/shop/running-store-men:/shop/lifestyle-footwear",
+"share": {
+"og:title": "fpr-c::/shop/running-store-men:/shop/lifestyle-footwear",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_runnning1445968442578_jfjdeb.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-running",
+"link": "/shop/running-store-men"
+},
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_Footwear1445968361175_wwxbqo.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-footwear",
+"link": "/shop/lifestyle-footwear"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "",
+"sequence": 23,
+"meta": {
+"og:name": "split-banner",
+"og:title": "fpr-c::/shop/lingerie-store-home:/shop/jewellery-festive-store",
+"share": {
+"og:title": "fpr-c::/shop/lingerie-store-home:/shop/jewellery-festive-store",
+"og:url": "http://www.myntra.com/mailers/feedcard/"
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "SPLIT_BANNER",
+"props": {
+"splits": [
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_lingerie1445968392407_zvo5hp.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-lingerie",
+"link": "/shop/lingerie-store-home"
+},
+{
+"width": 490,
+"height": 784,
+"src": "http://assets.myntassets.com/v1/Storewidgets_Jewellery1445968424180_rwcopc.jpg",
+"provider": "MYNT_ASSETS",
+"id": "store-jewellery",
+"link": "/shop/jewellery-festive-store"
+}
+]
+}
+}
+]
+},
+{
+"type": "COMPONENT_CARD",
+"props": {
+"id": "shape-id",
+"sequence": 24,
+"meta": {
+"og:name": "banner",
+"og:title": "fpr-c:/shop/shape-id-home",
+"og:url": "/shop/shape-id-home",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490624-Shape-shop_HP_android.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080,
+"share": {
+"og:title": "fpr-c:/shop/shape-id-home",
+"og:url": "http://www.myntra.com/mailers/feedcard/shape-id",
+"og:image:url": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490624-Shape-shop_HP_android.jpg",
+"og:image:width": 1440,
+"og:image:height": 1080
+}
+},
+"activities": {
+"like": {}
+}
+},
+"children": [
+{
+"type": "BANNER",
+"props": {
+"image": {
+"width": 1440,
+"height": 1080,
+"src": "http://assets.myntassets.com/assets/images/banners/2015/11/16/11447671490624-Shape-shop_HP_android.jpg",
+"provider": "MYNT_ASSETS"
+},
+"link": "/shop/shape-id-home"
+}
+}
+]
+},
     {
       "type": "COMPONENT_CARD",
       "props": {
