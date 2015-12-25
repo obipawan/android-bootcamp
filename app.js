@@ -24,6 +24,11 @@ app.get('/lgp/v2/feed', function*(next){
 	yield next;
 });
 
+app.get('/lgp/v2.1/feed', function*(next){
+	this.body = JSON.stringify(feedv2);
+	yield next;
+});
+
 app.get('/lgp/v2/feed/hotlist/android', function*(next){
 	this.body = JSON.stringify(hotlistv2);
 	this.set('Cache-Control', 'max-age=900,only-if-cached,max-stale=0');
@@ -46,6 +51,11 @@ app.post('/lgp/v2/action', function*(next){
 });
 
 app.get('/lgp/v2/feed/object/:id', function*(next){
+	this.body = JSON.stringify(feedObject);
+	yield next;
+});
+
+app.get('/lgp/v2.1/feed/object/:id', function*(next){
 	this.body = JSON.stringify(feedObject);
 	yield next;
 });
