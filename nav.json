@@ -1,0 +1,55 @@
+{
+  "count": 1,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "sequence": 0,
+        "meta": {
+          "og:name": "split-banner",
+          "og:title": "fpr-c::/shop/women:/shop/men:/shop/kids",
+          "share": {
+            "og:title": "fpr-c::/shop/men:/shop/women:/shop/kids",
+            "og:url": "http://www.myntra.com/mailers/feedcard/undefined"
+          }
+        },
+        "activities": {
+          "like": {}
+        }
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "width": 243,
+                "height": 96,
+                "src": "http://assets.myntassets.com/v1/xe5tbryopintny402ekm.png",
+                "provider": "MYNT_ASSETS",
+                "id": "Feed-1a",
+                "link": "/shop/women"
+              },
+              {
+                "width": 223,
+                "height": 96,
+                "src": "http://assets.myntassets.com/v1/oq4wuw9pv3m5mm3olyc7.png",
+                "provider": "MYNT_ASSETS",
+                "id": "Feed-1b",
+                "link": "/shop/men"
+              },
+              {
+                "width": 222,
+                "height": 96,
+                "src": "http://assets.myntassets.com/v1/pgi7ujlwsx1uocvn5csy.png",
+                "provider": "MYNT_ASSETS",
+                "id": "Feed-1c",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
