@@ -1,0 +1,43 @@
+{
+  "count": 1,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "",
+        "meta": {
+          "name": "CAROUSEL_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "CAROUSEL_BANNER",
+          "props": {
+            "baseColor": "#00000000",
+            "carousel": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/desi-at-heart.jpg",
+                "width": 980,
+                "height": 980,
+                "provider": "MYNT_ASSETS",
+                "link": "/desi-at-heart"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/2015/7/29/1438171436058-a-to-z-of-look-good-29-july-15.jpg",
+                "width": 980,
+                "height": 480,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/lookgood"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

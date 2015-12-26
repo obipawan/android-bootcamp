@@ -16,6 +16,8 @@ var feedzero = require('./feedempty.json');
 var androidConfig = require('./androidconfig.json');
 var myxhotlist = require('./myxhotlist.json');
 var nav = require('./nav.json');
+var carousel = require('./carousel.json');
+
 var port = process.env.PORT || config.koa.port || 3000;
 
 app.use(router(app));
@@ -101,6 +103,10 @@ app.get('/layouts/android/feed', function*(next){
 
 app.get('/lgp/v2.1/nav/android', function*(next){
 	this.body = JSON.stringify(nav);
+});
+
+app.get('/lgp/v2.1/carousel/android', function*(next){
+	this.body = JSON.stringify(carousel);
 });
 
 function startKoa(){
