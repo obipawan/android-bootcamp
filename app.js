@@ -23,28 +23,49 @@ var port = process.env.PORT || config.koa.port || 3000;
 
 app.use(router(app));
 
+function guid() {
+  function s4() {
+    return Math.floor((1 + Math.random()) * 0x10000)
+      .toString(16)
+      .substring(1);
+  }
+  return s4() + s4() + '-' + s4() + '-' + s4() + '-' +
+    s4() + '-' + s4() + s4() + s4();
+}
+
+function getFeed(path){
+	if(path && path.cards){
+		path.cards.map(feedItem =>{
+			feedItem.props.id = guid();
+		});
+		var feed = JSON.stringify(path);
+		return feed;
+	}
+	return '';
+}
+
 app.get('/lgp/v2/feed', function*(next){
 	if(this.query.after){
-		this.body = JSON.stringify(feedv2After);
+		this.body = getFeed(feedv2After);
 		yield next;
 	}else{
-		this.body = JSON.stringify(feedv2);
+		this.body = getFeed(feedv2);
 		yield next;
 	}
 });
 
 app.get('/lgp/v2.1/feed', function*(next){
 	if(this.query.after){
-		this.body = JSON.stringify(feedv2After);
+		this.body = getFeed(feedv2After);
 		yield next;
 	}else{
-		this.body = JSON.stringify(feedv2);
+		this.body = getFeed(feedv2);
 		yield next;
 	}
 });
 
 app.get('/lgp/v2/feed/hotlist/android', function*(next){
-	this.body = JSON.stringify(hotlistv2);
+	this.body = getFeed(hotlistv2);
 	this.set('Cache-Control', 'max-age=900,only-if-cached,max-stale=0');
 	yield next;
 });
@@ -113,11 +134,11 @@ app.get('/layouts/android/feed', function*(next){
 });
 
 app.get('/lgp/v2.1/nav/android', function*(next){
-	this.body = JSON.stringify(nav);
+	this.body = getFeed(nav);
 });
 
 app.get('/lgp/v2.1/carousel/android', function*(next){
-	this.body = JSON.stringify(carousel);
+	this.body = getFeed(carousel);
 });
 
 function startKoa(){
