@@ -6,6 +6,7 @@ var app = require('koa')(),
 
 var config = require(__dirname + '/config.js');
 var feedv2 = require('./feedv2.json');
+var feedv2After = require('./feedv2after.json');
 var feedObject = require('./feedv2object.json');
 var hotlistv2 = require('./hotlistv2.json');
 var hotlistv1p1 = require('./hotlistv1.1.json');
@@ -23,13 +24,23 @@ var port = process.env.PORT || config.koa.port || 3000;
 app.use(router(app));
 
 app.get('/lgp/v2/feed', function*(next){
-	this.body = JSON.stringify(feedv2);
-	yield next;
+	if(this.query.after){
+		this.body = JSON.stringify(feedv2After);
+		yield next;
+	}else{
+		this.body = JSON.stringify(feedv2);
+		yield next;
+	}
 });
 
 app.get('/lgp/v2.1/feed', function*(next){
-	this.body = JSON.stringify(feedv2);
-	yield next;
+	if(this.query.after){
+		this.body = JSON.stringify(feedv2After);
+		yield next;
+	}else{
+		this.body = JSON.stringify(feedv2);
+		yield next;
+	}
 });
 
 app.get('/lgp/v2/feed/hotlist/android', function*(next){

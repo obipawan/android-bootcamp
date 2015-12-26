@@ -1,0 +1,244 @@
+{
+  "count": 7,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "hpb_1a_promotio",
+        "meta": {
+          "name": "BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 2
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
+              "width": 980,
+              "height": 980,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "hpb_1a_promoti-",
+        "meta": {
+          "name": "BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 6
+      },
+      "children": [
+        {
+          "type": "BANNER",
+          "props": {
+            "image": {
+              "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+              "width": 980,
+              "height": 980,
+              "provider": "MYNT_ASSETS"
+            },
+            "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "asd",
+        "meta": {
+          "name": "SPLIT_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-women.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/women"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "1122",
+        "meta": {
+          "name": "CAROUSEL_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 4
+      },
+      "children": [
+        {
+          "type": "CAROUSEL_BANNER",
+          "props": {
+            "baseColor": "#00000000",
+            "carousel": [
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+                "width": 615,
+                "height": 369,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/women"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "3434",
+        "meta": {
+          "name": "CAROUSEL_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 0
+      },
+      "children": [
+        {
+          "type": "CAROUSEL_BANNER",
+          "props": {
+            "baseColor": "#00000000",
+            "carousel": []
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "343434",
+        "meta": {
+          "name": "SPLIT_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 2
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+                "width": 615,
+                "height": 369,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/navs-kid.jpg",
+                "width": 327,
+                "height": 327,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/kids"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "1010",
+        "meta": {
+          "name": "SPLIT_BANNER",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          }
+        },
+        "sequence": 9
+      },
+      "children": [
+        {
+          "type": "SPLIT_BANNER",
+          "props": {
+            "splits": [
+              {
+                "src": "http://assets.myntassets.com/v1448439347/winterwear-beat-the-cold_tmow8w.gif",
+                "width": 615,
+                "height": 369,
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/men"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "page": {
+    "next": "/v2/feed?limit=1&after=118",
+    "previous": "/v2/feed?limit=1&before=120"
+  }
+}
