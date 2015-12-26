@@ -99,7 +99,7 @@ app.get('/layouts/android/feed', function*(next){
 	this.body = JSON.stringify(myxhotlist);
 });
 
-app.get('/v2.1/nav/android', function*(next){
+app.get('/lgp/v2.1/nav/android', function*(next){
 	this.body = JSON.stringify(nav);
 });
 
