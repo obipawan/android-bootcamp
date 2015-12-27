@@ -18,7 +18,7 @@
         {
           "type": "SLIDESHOW",
           "props": {
-            "baseColor": "#fafafa",
+            "baseColor": "#33485c",
             "slides": [
               {
                 "src": "http://myntra.myntassets.com/assets/banners/home/desi-at-heart.jpg",
