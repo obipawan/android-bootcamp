@@ -21,6 +21,13 @@
             "baseColor": "#33485c",
             "slides": [
               {
+                "width": 980,
+                "height": 480,
+                "src": "http://assets.myntassets.com/assets/images/banners/2015/12/24/11450934005530-VogueWedding_InApp.jpg",
+                "provider": "MYNT_ASSETS",
+                "link": "/shop/voguevidai"
+              },
+              {
                 "src": "http://myntra.myntassets.com/assets/banners/home/desi-at-heart.jpg",
                 "width": 980,
                 "height": 980,
@@ -33,6 +40,13 @@
                 "height": 480,
                 "provider": "MYNT_ASSETS",
                 "link": "/shop/lookgood"
+              },
+              {
+                "src": "http://myntra.myntassets.com/assets/banners/home/10/09/2015/ucb_sb.jpg",
+                "width": 980,
+                "height": 980,
+                "provider": "MYNT_ASSETS",
+                "link": "/new-arrivals-aw15?f=brands%3AUnited%2520Colors%2520of%2520Benetton&sort=new"
               }
             ]
           }
