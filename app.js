@@ -18,6 +18,7 @@ var androidConfig = require('./androidconfig.json');
 var myxhotlist = require('./myxhotlist.json');
 var nav = require('./nav.json');
 var carousel = require('./carousel.json');
+var slideshow = require('./slideshow.json');
 
 var port = process.env.PORT || config.koa.port || 3000;
 
@@ -138,7 +139,7 @@ app.get('/lgp/v2.1/nav/android', function*(next){
 });
 
 app.get('/lgp/v2.1/carousel/android', function*(next){
-	this.body = getFeed(carousel);
+	this.body = getFeed(slideshow);
 });
 
 function startKoa(){
