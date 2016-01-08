@@ -138,7 +138,7 @@ app.get('/lgp/v2.2/stream/nav', function*(next){
 	this.body = getFeed(nav);
 });
 
-app.get('/lgp/v2.2/stream/carousel', function*(next){
+app.get('/lgp/v2.2/stream/slideshow', function*(next){
 	this.body = getFeed(slideshow);
 });
 
