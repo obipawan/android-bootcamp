@@ -57,59 +57,8 @@
             "carousel": [
               {
                 "image": {
-                  "width": 16,
-                  "height": 9,
-                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
-                  "provider": "MYNT_ASSETS"
-                },
-                "id": "new-arrivals-hpb-carousel-1",
-                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
-                "title": "Title"
-              },
-              {
-                "image": {
                   "width": 480,
                   "height": 413,
-                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
-                  "provider": "MYNT_ASSETS"
-                },
-                "id": "new-arrivals-hpb-carousel-1",
-                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
-                "title": "Title"
-              },
-              {
-                "image": {
-                  "width": 480,
-                  "height": 413,
-                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
-                  "provider": "MYNT_ASSETS"
-                },
-                "id": "new-arrivals-hpb-carousel-1",
-                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
-                "title": "Title"
-              },
-              {
-                "image": {
-                  "width": 480,
-                  "height": 413,
-                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
-                  "provider": "MYNT_ASSETS"
-                },
-                "id": "new-arrivals-hpb-carousel-1",
-                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
-                "title": "Title"
-              }
-            ]
-          }
-        },
-        {
-          "type": "CAROUSEL_PILL",
-          "props": {
-            "carousel": [
-              {
-                "image": {
-                  "width": 16,
-                  "height": 9,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -159,8 +108,59 @@
             "carousel": [
               {
                 "image": {
-                  "width": 16,
-                  "height": 9,
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              }
+            ]
+          }
+        },
+        {
+          "type": "CAROUSEL_PILL",
+          "props": {
+            "carousel": [
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
