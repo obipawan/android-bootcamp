@@ -1,0 +1,112 @@
+{
+  "count": 1,
+  "cards": [
+    {
+      "type": "COMPONENT_CARD",
+      "props": {
+        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168510010",
+        "meta": {
+          "name": "ARTICLE",
+          "app": {
+            "id": 2,
+            "name": "CoMS"
+          },
+          "tags": [
+            "grooming",
+            "shave",
+            "style",
+            "haircut",
+            "Sideburns",
+            "Elvis",
+            "men",
+            "Beauty & Grooming",
+            "featured",
+            "Elvis Presley"
+          ]
+        },
+        "sequence": 100,
+        "activities": {
+          "clicks": {
+            "count": 6974
+          },
+          "likes": {
+            "count": 164,
+            "liked": true
+          },
+          "comments": {
+            "count": 4
+          },
+          "shares": {
+            "count": 0,
+            "shared": false
+          }
+        }
+      },
+      "children": [
+        {
+          "props": {
+            "variant": "transparent",
+            "text": "Top Brands",
+            "link": "/sdcs"
+          },
+          "type": "TITLE_TEXT"
+        },
+        {
+          "type": "CAROUSEL_PILL",
+          "props": {
+            "carousel": [
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              },
+              {
+                "image": {
+                  "width": 480,
+                  "height": 413,
+                  "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
+                  "provider": "MYNT_ASSETS"
+                },
+                "id": "new-arrivals-hpb-carousel-1",
+                "link": "/online-fashion-shop?f=brands%3AArrow%2CArrow%2520New%2520York%2CArrow%2520Sport",
+                "title": "Title"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ],
+  "page": {
+    "next": "/v2/feed?limit=1&after=118",
+    "previous": "/v2/feed?limit=1&before=120"
+  }
+}

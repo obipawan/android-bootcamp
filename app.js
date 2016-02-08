@@ -19,6 +19,7 @@ var myxhotlist = require('./myxhotlist.json');
 var nav = require('./nav.json');
 var carousel = require('./carousel.json');
 var slideshow = require('./slideshow.json');
+var stream = require('./stream.json');
 
 var port = process.env.PORT || config.koa.port || 3000;
 
@@ -132,6 +133,10 @@ app.get('/config/android', function*(next){
 
 app.get('/layouts/android/feed', function*(next){
 	this.body = JSON.stringify(myxhotlist);
+});
+
+app.get('/lgp/v2.3/stream', function*(next){
+	this.body = getFeed(stream);
 });
 
 app.get('/lgp/v2.2/stream/nav', function*(next){
