@@ -57,8 +57,8 @@
             "carousel": [
               {
                 "image": {
-                  "width": 480,
-                  "height": 113,
+                  "width": 16,
+                  "height": 9,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -68,8 +68,8 @@
               },
               {
                 "image": {
-                  "width": 480,
-                  "height": 113,
+                  "width": 16,
+                  "height": 9,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -79,8 +79,8 @@
               },
               {
                 "image": {
-                  "width": 480,
-                  "height": 113,
+                  "width": 16,
+                  "height": 9,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -90,8 +90,8 @@
               },
               {
                 "image": {
-                  "width": 480,
-                  "height": 113,
+                  "width": 16,
+                  "height": 9,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
