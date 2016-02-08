@@ -4,7 +4,7 @@
     {
       "type": "COMPONENT_CARD",
       "props": {
-        "id": "2:5578fd6b-830c-4a4f-a11b-46688d168510010",
+        "id": "7217bfb5-f664-4d57-b3aa-4efa74d29797",
         "meta": {
           "name": "ARTICLE",
           "app": {
@@ -58,7 +58,7 @@
               {
                 "image": {
                   "width": 480,
-                  "height": 413,
+                  "height": 113,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -69,7 +69,7 @@
               {
                 "image": {
                   "width": 480,
-                  "height": 413,
+                  "height": 113,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -80,7 +80,7 @@
               {
                 "image": {
                   "width": 480,
-                  "height": 413,
+                  "height": 113,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
@@ -91,7 +91,7 @@
               {
                 "image": {
                   "width": 480,
-                  "height": 413,
+                  "height": 113,
                   "src": "http://myntra.myntassets.com/assets/banners/home/2015/may/13/nav-men.jpg",
                   "provider": "MYNT_ASSETS"
                 },
