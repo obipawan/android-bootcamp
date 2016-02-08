@@ -135,15 +135,15 @@ app.get('/layouts/android/feed', function*(next){
 	this.body = JSON.stringify(myxhotlist);
 });
 
-app.get('/lgp/v2.3/stream', function*(next){
+app.get('/lgp/v2.4/stream', function*(next){
 	this.body = getFeed(stream);
 });
 
-app.get('/lgp/v2.2/stream/nav', function*(next){
+app.get('/lgp/v2.4/stream/nav', function*(next){
 	this.body = getFeed(nav);
 });
 
-app.get('/lgp/v2.2/stream/slideshow', function*(next){
+app.get('/lgp/v2.4/stream/slideshow', function*(next){
 	this.body = getFeed(slideshow);
 });
 
