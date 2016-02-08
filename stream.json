@@ -54,6 +54,7 @@
         {
           "type": "CAROUSEL_PILL",
           "props": {
+            "visiblePills": 2.9,
             "carousel": [
               {
                 "image": {
@@ -106,6 +107,7 @@
         {
           "type": "CAROUSEL_PILL",
           "props": {
+            "visiblePills": 1,
             "carousel": [
               {
                 "image": {
@@ -157,6 +159,7 @@
         {
           "type": "CAROUSEL_PILL",
           "props": {
+            "visiblePills": 1.5,
             "carousel": [
               {
                 "image": {
